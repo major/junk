@@ -1,0 +1,11 @@
+Running web applications/services on OpenStack - 101
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+OpenStack Solum provides a platform to test, build, deploy and scale applications on OpenStack starting from application source code. In this interactive workshop, the Solum team will walk attendees through installation and configuration of Solum on virtual machine. Attendees will leave with an understanding of the various components of Solum and how it can be used to test, build, and deploy applications on OpenStack.Attendees will learn: Solum Architecture How to Install and Configure Solum How to build application-specific custom runtime environments How to build, test, and deploy applications starting from application source code How to scale up and scale down application instances Integration with Github to trigger execution of application life-cycle stages How to use Solum for CI/CD How to build applications that use other services (such as DBaaS) End user usage of the API, CLI and Horizon UI Contributing to Solum
+
+
+* **Devdatta Kulkarni** *(Dr. Devdatta Kulkarni is a senior software developer at Rackspace and the current PTL of OpenStack Solum. Devdatta's interests are in solving problems for application developers by designing platforms and services that make it easy to design, build, deploy, and manage applications through their life-cycle stages.Currently he is doing that through his work with the Solum project, and previously did that by designing a high-level programming framework for context-aware applications as part of his PhD dissertation research.Devdatta is a published author, having published research papers in the Association for Computing Machinery (ACM) and IEEE conferences and journals. He has given talks and presentations at ACM conferences and USENIX workshops, and at the OpenStack Summit in Tokyo, Japan. Devdatta earned his PhD in Computer Science from the University of Minnesota in Minneapolis. He is currently teaching a course in modern web application development in the computer science department at the University of Texas at Austin.  )*
+
+* **Vijendar Komalla** *(Vijendar Komalla is a Software Development Engineer at Rackspace. He contributes to Openstack Heat, Magnum and Solum projects.)*

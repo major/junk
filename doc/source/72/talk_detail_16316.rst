@@ -1,0 +1,9 @@
+Advanced Network Services in OpenStack: Load-Balancing as a Service (LBaaS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+This beginner session is about advanced network services in OpenStack, particularly focusing on Load Balancing as a Service (LBaaS). In physical world of enterprise data centers, load balancers have evolved over time to do more than simple spraying of connections to a set of backend servers. We will delve into some of the core requirements including session persistence, SSL termination, and rule based switching. We will present the evolution of OpenStack LBaaS APIs as they incorporated these requirements. On the implementation side, we compare and contrast the most common architectures of LBaaS deployments: (i) process-based (reference architecture), (ii) appliance-based, and (iii) service-VM-based (Octavia's architecture). We will focus on service-VM architecture's elastic scalability and high availability. We will also share learnings from production deployments of elastic LBaaS in large-scale private and public OpenStack clouds.
+
+
+* **Praveen Yalagandula** *(Praveen Yalagandula is the OpenStack Architect at Avi Networks, responsible for designing and developing the integration of Avi Networks’ Cloud Application Delivery Platform with OpenStack infrastructure services. At Avi, Praveen also leads the application performance visibility component of the Avi’s solution and has developed a scalable and distributed log analytics system. Prior to Avi, Praveen was a Principal Scientist at HP Labs in Palo Alto, where he spent 8 years exploring several aspects of data center networks, software defined networking, and large-scale distributed systems. Praveen received his Ph.D. in Computer Science from the University of Texas at Austin in 2005. He is currently a senior member of IEEE and ACM.)*

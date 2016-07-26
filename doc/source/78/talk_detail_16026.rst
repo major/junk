@@ -1,0 +1,13 @@
+Serve hot objects fast and move iced ones to the fridge! Place your Objects based on it’s metadata
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+While object stores are predominantly used for archive, capabilities of multiprotocol access opens up newer use cases which require faster access to unstructured data. In SWIFT, with SwiftonFile open source modules which supports multiprotocol access, the object store sits over different tiers of storage pools that have different characteristics in terms of price/performance. Placing the right object at the right tier requires intelligent tiering of objects across the pools based on the object heat which is a direct reflection of it's access w.r.t time. Additionally, object store characteristic of having user defined metadata with objects can be used for tiering. With this, one can control tiering of objects based on object metadata, irrespective of when the metadata is updated.
+
+
+* **Smita Raut** *(Smita has been working with IBM for the last five years in storage area. She has been working on Network Attached Storage products on features related to disk and filesystem management, Active Cloud Engine (wan-caching across geos), Information Lifecycle Management and Object protocol for cloud storage. Her current focus is on Object storage protocol for cloud enablement.)*
+
+* **Simon Lorenz** *(Simon Lorenz is an IT Architect in IBM Research and Development Germany. Hejoined IBM Germany in 1993 and worked on productivity and manufacturing qualityimprovements within IBM Disk Drive Manufacturing Management software. Duringinternational assignments, he helped to improve fully automated chip factories in the US andAsia. Simon has held various positions within IBM Research and Development. Since 2009,he has worked on Storage Systems Management software and has been responsible forsubcomponents, such as system health reporting, cluster configuration management, andrecovery. Simon joined the IBM Spectrum Scale (built upon IBM GPFS) development team in 2014 and works on the integration of Openstack with Spectrum Scale.)*
+
+* **Sandeep Patil** *(Sandeep Ramesh Patil works as a storage cloud architect with IBM labs and has over 15 years of extensive product architecture and design experience. Sandeep is IBM Master Inventor with over 150+ US patent filings in the field of storage cloud, security, filesystem, etc and is among the leading inventors in India in the mentioned field. Sandeep has authored numerous articles and paper publications in the filed of computer science with subjects over security, storage clouds, etc and has presented in various international conferences across the world.)*

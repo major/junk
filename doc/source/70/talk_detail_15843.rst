@@ -1,0 +1,13 @@
+A Monitoring Architecture for OpenStack on Kubernetes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+We at Mirantis are currently working on a “Containerized Control Plane” (CCP), a project that aims at running OpenStack services in Containers deployed and managed by Kubernetes. Our goal with CCP is to create a hardened OpenStack distribution, focusing on robustness, scalability, high-availability and ease of upgrades. We are developing CCP in the open, under the umbrella of the Fuel OpenStack project. This presentation will focus on Monitoring in CCP. We think Monitoring is key, so we are developing Monitoring from the beginning of the project, as a core component of CCP. In this presentation we will describe our general Monitoring architecture, and the various open-source tools our Monitoring toolchain comprises. In particular, we will talk about Snap and Hindsight, the telemetry framework and stream processing engine we use for collecting and processing the telemetry data, and how we combine the two. [1] <http://intelsdi-x.github.io/snap/> [2] <https://github.com/trink/hindsight>
+
+
+* **Éric Lemoine** *(Eric Lemoine is a Senior Software Engineer at Mirantis, working as a developer in the Logging Monitoring Alerting team. In the past Eric worked at Sun Microsystems, in the Labs first, where he did a PhD on high-performance networking, and then in the High Availability team as a Software Engineer. Eric also worked as a Technical Leader at Camptocamp, an open-source company specialized in Geographic Information Systems. As part of work at Mirantis, Eric contributed a distributed Logging solution to the OpenStack Kolla project, and participated to the design of introducing Monitoring to Kolla.)*
+
+* **Patrick Petit** *(Patrick Petit is the engineering director managing the Stacklight project at Mirantis. Patrick Petit joined Mirantis in April 2014. With over 25 years of experience, Patrick Petit held different software engineering positions in several IT companies including Sun Microsystems where he occupied several software architect roles in the iPlanet Division and the Technology Office of the company both in California and in the Engineering Center of Grenoble.)*
+
+* **Olivier Bourdon** *(I am a Senior Software Engineer at Mirantis, working in the StackLight team (formerly called LMA for Logging Monitoring Alerting) currently based in Grenoble FRANCE. In the past I have co-founded several startups, some having been more successfull than others ;-), and also worked for quite a long time at Sun Microsystems where I have held several positions (technical & manager) within several teams (dev, QA, support))*

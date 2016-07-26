@@ -1,0 +1,11 @@
+Process? What Process??? – User Story Workflow
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+OpenStack has well define process of bringing user requirements. This is centered on user stories, and defined process of exposing detailed requirements from these stories into openstack projects and a process for prioritization for them.
+
+
+* **arkady kanevsky** *(Arkady has been a member of OpenStack since Grizzly. He is director of engineering leading a team of developers responsible for development of Dell OpenStack solutions.  Arkady has PhD. in CS from UIUC.  He straddled academic, research, architect, developer, and product owner roles.  Arkady roles included  but not limited to, research publications and Program committee member for various conferences like FAST (https://www.usenix.org/legacy/events/fast11/organizers.html), Chair or board member  of several standard activities, like DAT (http://www.datcollaborative.org),  OpenFabric (https://www.openfabrics.org/index.php) and MPI-RT (http://www.cse.msstate.edu/~yogi/dandass-mpirt-2004.pdf) to product delivery, like EMC Atmos, Dell OpenStack solutions among others.   Arkady is passionate advocate of OpenStack and making its usage easier for users and administrators. He concentrates efforts of his team on extending OpenStack capabilities for enterprise use cases, from automatic deployment, and robustness, to HA, upgrade, extensibility and validation.)*
+
+* **Rochelle Grober** *(Rocky is an industry veteran, with experience spanning computer bring up to AI, networks and embedded. But her attention always seems to return to close to the metal, large infrastructure. Starting out in EE, she migrated to SW development then on to QA and SW Process, which is why she is a champion for operations, interoperability and usability. She has been aware and peripherally involved in Open Source since the original creation of Copy Left, but is finally fully emersed in it now, as an OpenStack resource within Huawei. She brings many years of experience in large scale systems and operations, SOA, SAAS, mobile (oh, wait, that's not a TLA!) to the table, along with experience in multiple verticals and other business jargon. But most importantly, she melds a passion for quality performance with a pragmatism gained in the real world.)*

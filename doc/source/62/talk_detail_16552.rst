@@ -1,0 +1,11 @@
+Achieving Hybrid/Multi-Cloud through Automation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Hybrid cloud: as many definitions as there are solutions - and more hype than both combined. In the first part of this session we'll cut through the noise to understand the state of the market. Enterprise organizations have come to recognize that a hybrid cloud strategy is the likely answer and have begun the process of seeking out and implementing solutions. But what do these strategies consist of, and what are the solutions? We'll look at common definitions, objectives, and strategies for implementing hybrid cloud. In the second half of the session we'll present a technical architecture for one such solution, followed by a live demonstration. WAN automation allows for real-time provisioning of inter-cloud connectivity, and OpenStack provides a framework for integration and provisioning with public cloud service providers. The solution presented will bring together private and public clouds with the oft-requested single management interface.
+
+
+* **Grant Kirkwood** *(Grant Kirkwood is the founder and CTO of Unitas Global, a provider of custom Enterprise Cloud solutions for organizations around the world. The company offers its solutions to mid- and large-size enterprise, operating from 35 datacenter deployments worldwide.  A serial entrepreneur and technologist at heart, Grant has always been at the forefront of open source technologies. His first company began offering web application development and hosting based on open source technologies in 1997. At Unitas, he serves as an advocate for adoption of OpenStack, leading its development efforts but Grant also spends much of his time talking with customers to help them formulate a cloud adoption strategy.  Before founding Unitas Global, Mr. Kirkwood served as CTO of PacketExchange, a London-based global network service provider. Prior to PacketExchange, he founded Mzima Networks, a performance-optimized bandwidth operator for web and online video applications. Grant is a frequent presenter and industry analyst at events around the world. Most recently he spoke about open source and specifically OpenStack at the Datacloud Europe event in Monaco held June 8-10.)*
+
+* **Sig Luft** *(None)*

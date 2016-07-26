@@ -1,0 +1,13 @@
+Are Bug Bashes Sexy? Productive?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+It all started more than a year back in China with Intel and Huawei co-hosting a bug bash which morphed into a 3-day global bug bash for Mitaka running at 13 sites and local events for Newton. In India the event attracted OpenStack newcomers who were welcomed with 101 sessions. In China, Australia,  and USA seasoned PTLs and Cores hosted the events and teams focused on bugs in different areas, many of them critical, high, and medium in value. The sense of urgency from an impending release, the camaraderie of working together are special. Coupled with the stellar statistics in bugs addressed, fixed, reviewed, and merged shows a community that is vested in producing a quality product. We share in this talk the projects that benefitted and provide statistics on bugs addressed and resolved, tips on hosting a bug bash from how early to start, date selection, minimum requirements, places to advertise the event and more. Please consider hosting a bug bash for the next release!!
+
+
+* **Jianfeng (JF) Ding** *(Jianfeng Ding is the manager of Intel OpenStack Engineering team in Beijing. The team is part of Opensource Technology Center(OTC) in Intel, which is foucsing on OpenStack development. Jianfeng has worked on Linux for almost 18 years, and used to lead team to contribute MeeGo and Tizen project inside Intel. Currently, he and his team are actively collaborating with OpenStack community and ecosystem partner companies in many areas.)*
+
+* **Fred LI** *(Manager of FusionSphere OpenStack opensource team. Leading the team to link OpenStack community and Huawei FusionSphere cloud OS product. Have being worked in Huawei since 2002. Served as System Engineer, Project Manager in Carrier Software area. Now working on productizing OpenStack.)*
+
+* **Shane Wang** *(Shane Wang is an individual board member of OpenStack Foundation in 2015 and an engineering manager of the Datacenter and Cloud Software (DCS) team at the Open Source Technology Center (OTC), Intel. Shane joined Intel in 2004 after he graduated from Fudan University and got his Ph.D. degree in Computer Science, and since 2007 has been working on open source technologies, spanning low-level Virtualization Technology (VT) in Xen and KVM, maintaining tboot - an open source trusted boot solution, Yocto, and managing embedded solutions. Since 2011 Shane has focused on OpenStack, with his team working on Nova, Ironic, TripleO, Magnum, Congress, Watcher, Horizon, Keystone, Neutron, Ceilometer, Cinder, Glance, and the 3rd party CIs.  He led the team and co-authored two books OpenStack Design and Implementation in 2015 and System Virtualization in 2009.)*

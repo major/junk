@@ -1,0 +1,11 @@
+Multi-site, without the explosions!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+To reach automatic high-availability and disaster-recovery, an OpenStack cloud should not be limited to a single datacenter; a true cloud environment should be stretched across multiple sites. A common theme we encounter when designing OpenStack clouds in enterprise settings is high-availability and disaster-recovery across sites. The rationale is that even if a complete datacenter fails, the cloud needs to continue to work. Multiple individual clouds with disaster-recovery between them fall short; they require an out-of-band backup and restore procedure, which needs to be manually implemented and does not guarantee latest data available on the failover cloud. In this session we will discuss the design of a stretched multi-site OpenStack cloud and provide a proven architecture, validated in real-world implementations. We will share the detailed requirements from the datacenter network interconnect down to OpenStack and storage configurations - without the explosions!
+
+
+* **Alberto Garcia** *(Alberto works as Cloud Architect at Red Hat in EMEA. He also leads the EMEA Cloud Infrastucture practice, where he works on the mentoring of consultants and on the development of consulting solution offerings. During his more than ten years of carreer, Alberto has worked in the Telecom industry as a network engineer and in the IT Consulting industry working on the delivery of infrastructure solutions.)*
+
+* **Bart van den Heuvel** *(I manage the EMEA Infrastructure Practice at Red Hat where we deliver high quality, high value Cloud solutions based on emerging technology products. Quality not only in terms of technical ability but also in how the project is positioned and delivered. Using methodologies as SEMAT Essence and Agile we make sure that the right people are involved and we deliver, together with the customer, a realistic and valued result. My role is to help hire new recruits, take responsibility in resource planning and manage a team of around 20 highly skilled, highly motivated IT Architects who work throughout the EMEA region.Develop talent by creating personal development plans, providing guidance and manage the daily operation of the infrastructure practice.)*

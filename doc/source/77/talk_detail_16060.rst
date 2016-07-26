@@ -1,0 +1,9 @@
+Design Case Study - IMS Core deployment with Metaswitch and Cloudify on VMware Integrated Openstack
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Design Case Study - IMS Core deployment with Metaswitch and Cloudify on VMware Integrated Openstack Metaswitch ClearWater is a popular open source vIMS reference implementation with multiple VMs, networks and cross dependencies. In this talk we will discuss how Cloudify can Orchestrate Metaswitch ClearWater on VMware Integrated Openstack and manage its operational aspects and life cycle. This is a technical session that will discuss the entire service life cycle of this deployment from blueprinting, deployment, scaling and decommission. 
+
+
+* **Vanessa Little** *(With over 25 years experience in various roles in network and system architecture, mobile video system architecture and governance in both telco and  retail sectors, Van has developed a diverse toolset.  Van spent much of her career as a contractor, working for every telco as well as major retailers in Canada over the years.  Having worked as everything from unix sysadmin to Chief Technical Officer with a number of leadership roles in between, Van has contributed to technologies from mobile, enterprise data centre, multi-national networks and beyond.  Now at VMware as the Sr Manager - Global NFV Ecosystem Architecutre Van is focused on leading integrated architectures that integrate all of the NFV partners across the globe in useful NFV solutions that solve for specific problems.  This role has her speaking at conferences around the world, and spreading the word about the strength of the NFV Ecosystem. Van attended the University of Toronto where she majored in Computer Science and Astro-Physics.  Van currently makes her home in Toronto Canada, where she enjoys spending her free time playing hockey, tennis and fishing.)*

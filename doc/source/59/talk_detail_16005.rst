@@ -1,0 +1,13 @@
+Public Cloud done right: Making of the SysEleven Stack 1.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+This presentation explains the development of SysEleven's OpenStack-based public cloud. After two years of development, the SysEleven Stack 1.0 went live on July 1, 2016. In this presentation, we'll share our experiences over the last two years, covering all the different aspects of building and running a public cloud based on OpenStack. You'll get a basic idea of the architectural design of our OpenStack platform. You'll learn about the motives behind our design decisions. Highlights include building a network design based on 100G hardware that can scale out properly choosing the right hardware full lifecycle management for the servers doing Software Defined Networking (SDN) and Software Defined Storage (SDS) right getting central aspects of OpenStack operations right from the get-go mastering the many challenges, big and small, that OpenStack has ready for you
+
+
+* **Felix Hupfeld** *(Felix Hupfeld is one of the creators of XtreemFS, the open-source fault-tolerant distributed file system, spent several years at Google to accompany Google's tape backup system from pre-production to mind-blowing scale, and returned to Berlin to join in founding the software storage company Quobyte. Quobyte's Unified Storage Plane enables everyone to run professional storage infrastructure on standard hardware.)*
+
+* **Martin Loschwitz** *(Martin Loschwitz became a member of the Open Source Community in 2000 and has been a Debian developer since 2003. He had his first contact with OpenStack in late-2011 and currently holds the position of the teamlead of the OpenStack team at SysEleven in Berlin, Germany. His primary technical focus are Software Defined Storage and Software Defined Networking solutions.)*
+
+* **Erez Cohen** *(Erez Cohen acts as Mellanox Vice President for CloudX Program, responsible for all aspects of the program including architecture, implementation and marketing/sales. The CloudX program incorporate Mellanox state of the art network and storage interconnect product lines to form the most efficient and scalable cloud infrastructure. Between 2003 and 2013 Mr. Cohen led the Field Engineering group at Mellanox. In this position Mr. Cohen was responsible for Global pre and post sales technical support for OEMs and end users. As part of this role Mr. Cohen was involved with some of the largest and most complex data centers and High Performance Computing clusters in the world. Between 2000 and 2003 Mr. Cohen lead the Architecture and Design Validation group at Mellanox. Mr. Cohen holds a Bachelor of Science in Computer Engineering from the Technion Israel Institute of Technology.)*

@@ -1,0 +1,11 @@
+Overview of AT&T’s Cloud Workloads: Before, and After OpenStack
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Have you ever wondered about the different types of cloud workloads, and service integration use-cases a typical large operator manages on daily basis? Join us for this session as we walk through a diverse set of workloads, application and service delivery patterns that are powered by our OpenStack cloud platform. Running all your workloads on a common unifying platform is a great vision to pursue. However, in a complex multi-vendor multi-solution landscape that a large operator deals with regularly, the key to executing this vision becomes technology integration. We'll cover: The process to deploy new services going from 2-3 weeks of time line, down to minutes with the help of cloud platform and other tools. For a telco provider, a legacy way of launching a new service would have involved commandeering multiple disjoint technology blocks with significant lead time. Whereas now, with the help of Gluon, Yardstick and OPNFV platform this becomes simple, predictable agile process.
+
+
+* **Tobias Ford** *(As the AVP of Cloud Infrastructure and Platform Architecture & Strategy for AT&T, Toby Ford leads technology efforts around AT&T's cloud offerings both internally and externally focused. Currently, Mr. Ford is responsible for shepherding SDN and NFV projects on to AT&T’s Common Cloud platform. Toby served as CTO for USi, which was acquired by AT&T in 2006. Previously, Mr. Ford held positions at Cornell University, ARINC, TeleCommunication Systems, and his own company in the Netherlands. Toby is also a member of the OpenStack Board of Directors.    )*
+
+* **Amit Tank** *(Amit Tank is a Sr. Principal Cloud Architect with AT&T. He spends his time designing and building large scale cloud infrastructure, and leading projects and teams of technologists working towards putting OpenStack in production - while contributing the learnings back to the community. He enjoys helping enterprises, businesses and customers become fluent with OpenStack, Open Source, and Cloud skills and technologies within their organizations. Prior professional associations include several startups, DirecTV, Cisco, EMC, Hitachi, and Schindler among others.)*

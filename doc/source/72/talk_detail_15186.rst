@@ -1,0 +1,13 @@
+The evolution of OpenDaylight with OpenStack: big changes for production environment in future
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+OpenDaylight is an open source SDN(Software Defined Networking) platform which provides various features. One of the biggest use-case is OpenStack integration as network virtualization. So the OpenDaylight community has spent much effort on this use case along side with neutron community. In OpenStack netwon cycle and OpenDaylight Boron cycle, we've made big progress and changes. In OpenStack side migration to new driver framework for HA, in OpenDaylight side migration to new code base, VPNService from the old netvirt. Those are the essential and big change necessary for production  environment. Those changes come with new features, L2Gateway, ACL for security groups, SNAT, QoS, SFC and etc.Since they are all internal changes, it shouldn't affect user facing features ideally, but the real world is not perfect. The implementation changes, pitfalls and things to be aware of will be discussed. This session will be concluded with the future plan.
+
+
+* **Isaku Yamahata** *(Isaku Yamahata is a Software architect in the Open Source Technology Center, Intel. His main focus is Network virtualization as Software Defined Networking and Network Function Virtualization. Isaku is an active OpenStack Neutron (networking) developer and has in the past contributed significantly to qemu, kvm, Xen, and Ryu SDN frameworks.)*
+
+* **Sam Hague** *(Sam Hague is the Project Technical Lead for the OpenDaylight OVSDB project and Senior Principal Engineer in the Office of Technology at Red Hat, Inc. Sam's most significant contributions to OpenDaylight concern the network virtualization provider and OVSDB MD-SAL southbound plugin as well as service function chaining and the neutron northbound. Previous experience includes leading the software development at Extreme Networks adding OpenFlow to their line of switches and a variety of technologies at Cisco Systems from creating the first SIP IP phones to adding Bluetooth and VPN capabilities to mobile routers to implementing H.264/AVC video conferencing on Android-based tablets. (https://www.linkedin.com/in/samhague))*
+
+* **John Joyce** *(John is an active contributor to Openstack. He has been involved with Neutron since the essex timeframe where he added Horizon integration for Neutron/quantum. In addition to that he authored the first Cisco plugin for intelligent parallel orchestration of Cisco devices with Neutron. He has also driven key features in Neutron like dynamic segmentation. He's currently active in the Neutron ML2 community)*

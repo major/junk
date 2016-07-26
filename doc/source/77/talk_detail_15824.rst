@@ -1,0 +1,13 @@
+Tacker 102: Beyond VNF life cycle management
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Tacker project is an extendable NFV orchestration software that follows a plugin driver model approach for ease of customization and adaptability by network operators. Operators wanting to deploy Tacker in their infrastructure typically write custom drivers based on their VNF requirements and implement end to end service workflows.  In this session, first, you will learn about Tacker internals on how different components such as VNFM, NFVO, and VIM interact with each other. New features such as alarm based monitoring, manual and autoscaling, events notification and VNF forwarding graphs introduced in the Newton release will be discussed. Then, you will learn how to extend Tacker's capability by writing custom drivers. A step-by-step procedure of writing a new driver for VNF monitoring, configuration and supporting custom VIMs will be presented. Lastly, the audience will learn how to configure the new drivers in Tacker and invoke them through TOSCA VNFD template specification.
+
+
+* **Sripriya Seetharam** *(Works as a Senior Software Engineer at Brocade. Tacker project committer. Open source enthusiast. Interested in SDN and NFV related projects.)*
+
+* **Bob Haddleton** *(Bob Haddleton is the Innovation Team Lead and a Cloud Solutions Architect in the Applications & Analytics business unit at Nokia, where he works to develop cloud-based solutions. Bob has over 28 years of experience in telecommunications software, 3G/4G wireless, and networking.  He joined the Cloud Innovation Center in 2013 and set to work using his extensive telecommunications software/networking and wireless knowledge to demonstrate how network functions can be virtualized and provide higher levels of reliability at lower costs.  He is a core reviewer for the Tacker, TOSCA Parser and Heat Translator projects, and is interested in the issues that surround deploying/configuring/monitoring/maintaining complex VNFs and Network Services.)*
+
+* **Sridhar Ramaswamy** *(Sridhar Ramaswamy works as a Principal Engineer in Brocade’s Software Networking division. Sridhar is the PTL for OpenStack Tacker project building NFV Orchestrator solutions within OpenStack tent. Previously Sridhar contributed to OpenStack Neutron projects. Sridhar is also a Container enthusiast and tinkers solutions in the Container Orchestration space. Previously Sridhar worked as Sr. Technical Leader in Cisco Systems in wide variety of areas including LXC Container based application management and CSR1000V Virtual Router.)*

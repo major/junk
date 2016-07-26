@@ -1,0 +1,13 @@
+How to Write a Network Function and Deploy in your OpenStack Cloud in less than 30 mins!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+So, you have implemented a super cool network function and want to make it available to your cloud users. You want the network function to be a part of a service chain composed of other functions, or your awesomesauce network function supports the combination of functions in the chain. Your network function simply needs data ports and management ports, you don’t care about how the network plumbing happens. Your network function supports a simple CRUD API for instantiation, configuration, health and usage monitoring. Beyond that you expect the higher level orchestration to manage the lifecycle of your network function regardless of whether this happens over-the-cloud or under-the-cloud. With the help of a policy-based framework, we will show you just how to do all of this in OpenStack. We call this the Bring Your Own Function (BYOF) paradigm. You will stand up an OpenStack cloud with the policy-based framework and the Network Function Plugin that will drive your network functions.
+
+
+* **Sumit Naiksatam** *(Sumit Naiksatam is a Principal Engineer at Cisco Systems. He contributes to several OpenStack projects and is currently involved in driving and implementing the Group Based Policy project. In the recent past he was involved in driving the efforts around integration of L4-7 services and more specifically Firewall-as-a-Service in Neutron.)*
+
+* **Hemanth Ravi** *(Hemanth is responsible for the development of One Convergence's innovative solutions. Hemanth brings comprehensive experience as an architect of products in data networking, multimedia networking and in building highly scalable data center solutions. Hemanth holds several patents in the area of multimedia networking. Prior to One Convergence, Hemanth was Director of Engineering at NetContinuum and held senior engineering positions at Microsoft, Vxtreme and Wollongong. Hemanth holds a Master of Computer Science from Michigan State University and a Bachelor of Computer Science from REC, Trichy, India.)*
+
+* **Dinko Mitic** *(Cloud Architect at Sungard Availability Services I have build infrastructure for Public and Private clouds for the last three years. My background of over 10 years in Enterprise IT prior to that helps me understand the needs of our customers. My goal is to help transform Enterprise IT organizations as they transition their applications to Cloud. At the same time, I would like to help OpenStack become a platform that is mature and stable, and include some resiliency features expected by traditional IT organizations.  )*

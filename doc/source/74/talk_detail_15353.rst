@@ -1,0 +1,11 @@
+Open Telekom Cloud: Hybrid-cloud management with OpenStack
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Working together with Huawei, T-Systems has built a large-scale European public cloud, the Open Telekom Cloud, using OpenStack. Separate OpenStack clouds deployed in multiple data centres are consolidated into single cloud environment using Cascading OpenStack (also known as the Tricircle project under the Big tent). Furthermore, through the use of unified Neutron overlay networks, and API connectors for other clouds, we have succeeded in integrating multiple heterogeneous 3rd party clouds such as AWS and vCloud, into the unified Cascading OpenStack framework. This allows us to flexibly deploy virtual machines & Docker containers across this hybrid environment using the full standard OpenStack APIs and SDKs with consistent capabilities and seamless user experiences. Additionally, storage replicators have been developed for easy migration of virtual machines & Docker containers from one cloud to another—truly an open cloud!
+
+
+* **Anthony Clarke** *(Anthony Clarke has worked in IT for over 25 years and in outsourcing for more than 15. During that time, he has held various roles in software development, server, storage, firewall and database operations, architecture and management. In recent years, he has focused on cloud computing solutions, supporting colleagues and customers in making the best use of this fascinating and dynamic technology.)*
+
+* **Dennis Gu** *(Chief Architect of Cloud Computing solution of Huawei Technology, key member of the expert group of “China Cloud” project sponsored by Ministry of Science and Technology, lead the technical planning and architecture designing of Huawei Cloud OS FusionSphere, and convergent infrastructure FusionCube, which have supported Huawei to win over 350 Cloud Computing commercial projects around the globe. Joined Huawei Technology in 1998, served as Chief Architect of Huawei Mobile Softwitch product and IP Multimedia Sub-system(IMS) solution, which ranked No.1 in the Telecom industry on both technology competence and market share , and deployed in leading Telco carriers like Vodafone, DT, Orange, Comcast, CMCC etc. Winner the National Science and Technology Award of China in Year 2012 & Year 2014. Owning 30 + authorized technical innovation patents.)*

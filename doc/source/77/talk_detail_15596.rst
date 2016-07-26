@@ -1,0 +1,11 @@
+End to End Architecture Design for NFV workloads: from Hardware up to the Cloud layer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+The Communication Technology industry with the help of Telco Application Vendor and IT industry are guiding a transformation phase that will move network functions from disperse, dedicated silos to a shared common infrastructure. Network Function Virtualization (NFV) workloads running of a cloud platform, with respect to IT applications, should rely on an End to End Carrier Grade (CG) architecture meeting at least "five nines" high availability standards and guaranteeing very intensive performance KPIs. This session will guide the attendees on the key requirements and design principles of a CG platform starting from the physical layer, moving to the virtualization layer and concluding with the Cloud platform. For each of these architectural layers, key aspects of compute, network and storage domains will be discussed. After watching this session, you should be able to understand the key principles to take care in the design of a CG infrastructure suitable to host NFV workloads.  
+
+
+* **Luca Galluppi** *(Luca holds a Bachelor degree in Software Engineering and joined HPE in 2007. As an Information Systems Architect, Luca led the development of custom CTI and VOIP solutions for Telco and FSI Customers. He is competent with Networking, SDN and Cloud. Luca has participated in NFV PoCs and Custom projects of Common NFV Infrastructure for Telco services since 2013. He is actively involved in EU sponsored innovation projects in the Telco and NFV solution space.)*
+
+* **Pierangelo Magli** *(Pierangelo holds a master's degree in Computer Engineering from Politecnico di Milano (Italy) and a Master of Science in Computer Science from the University of Illinois at Chicago (USA). He joined HPE in 2006 as part of the Italy Innovation Center, where he worked as Solution Architect, developing strong skills on Software Design, Agile Methodologies and Cloud Computing. Currently his main focus and area of interest is Network Functions Virtualization (NFV). His experience as NFV Solution Architect dates back to 2012 with the very first HPE NFV PoCs, followed by delivery projects in IMS and VoLTE domain.)*

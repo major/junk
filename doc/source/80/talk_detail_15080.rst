@@ -1,0 +1,13 @@
+Serverless: How to build an event-driven, polyglot Serverless microservices framework on OpenStack.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Serverless cloud platforms are a major trend in 2016. Following on from Amazon’s Lambda service, released last year, this year has seen Google, IBM and Microsoft all launch their own solutions. Serverless microservices are executed on-demand, in milliseconds, rather than having to sit idle waiting. Users pay only for the raw computation time used. In this talk we are going to detail how to build a distributed serverless, event-driven, microservices framework on OpenStack leveraging our experience of using OpenStack Nova, Cinder, Neutron, Swift, Heat etc and other open source technologies like 1. OpenWhisk: Open source distributed compute service to execute application logic in response to events 2. Docker : To run event driven actions 3. Consul: Tool for service discovery and configuration. 4. Kafka: A high-throughput distributed messaging system. 5. StatsD/ELK/Graphite: For statistics, monitoring and logging 6. Ansible and BOSH: to deploy the serverless platform on OpenStack
+
+
+* **Animesh Singh** *(Animesh Singh is an STSM and Lead for IBM Cloud Platform and Infrastructure. He has been with IBM for more than 10 years and currently works with customers in designing cloud computing solutions on OpenStack and Cloud Foundry. He has been leading cutting edge projects for IBM enterprise customers in Telco, Banking, and Healthcare Industries, around cloud and virtualization technologies. He has a proven track record of driving design and implementation of private and public cloud solutions from concept to production. He also led the design and development first IBM public cloud offering, and is currently leading initiatives in IBM around OpenStack, CloudFoundry and Bluemix)*
+
+* **Kalonji Bankole** *(Kalonji is currently a software engineer with IBM's Cloud Computing division. He has over 3 years experience with IBM's Cloud Performance team designing and delivering customer solutions that utilize open source technologies such as Openstack,CloudFoundry, Docker, and Elasticsearch. He has spoken about this experiences working with OpenStack, Cloud Foundry and Docker at different conferences. Kalonji received a B.S. in Computer Engineering at Howard University.)*
+
+* **James Busche** *(Jim Busche is a Senior Software Engineer, working for Open Technology and Cloud Architecture at IBM.  Jim's helped install and support multiple generations of IBM Cloud world-wide, and has 4+ years experience deploying and operating openstack for large fortune 500 customers, IBM products as as well as IBM Research projects.)*

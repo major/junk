@@ -1,0 +1,11 @@
+Building a media transcoding pipeline on OpenStack
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+This session presents an architecture on how to build a media transcoding pipeline on OpenStack.  The explosion of end-user devices (laptop, phone, set-top boxes, etc) is changing the media presentation landscape and requiring content providers to transcode a media to various formats, resolution, bitrate, etc. Media transcoding demands high CPU and large storage resources in general, but those themselves don’t necessarily provide effective solutions. In this session, we will share the reference architecture of deploying such workload and show how to utilize various OpenStack components to fulfil the media transcoding requirements. We will share our experiences, knowledge and best practices including how to configure OpenStack settings, such as nova (CPU, flavor, ephemeral disk), glance and swift. We will also present a performance benchmark results of running the transcoding tasks on different settings.
+
+
+* **Dr Yih Leong Sun** *(Dr Sun accumulated more than 16 years of experience in software development and infrastructure deployment. He obtained PhD Computer Science (Multi-Cloud Infrastructure) in 2013. He spent the past 7 years on Multi-Cloud infrastructure development. He currently serves as a Senior Software Cloud Architect for Intel Open Source Technology Center. Prior to that, he was a Principal Software Engineer for a Fortune-100 Insurance Group, working for the next-generation Cloud platform project. He also led the engineering team of a few start-up companies in Singapore and Silicon Valley. His expertise is in Multi-Cloud orchestration and with a strong interest in building an Enterprise Multi-Cloud platform.)*
+
+* **Jun Nakajima** *(Jun Nakajima is a Senior Principal Engineer leading open source virtualization and cloud projects, such as, KVM, Xen, and OpenStack at the Intel Open Source Technology Center. Jun has been working on various virtualization projects for almost a decade, and NFV is one of his ongoing projects. Jun presented a number of times at technical conferences, including KVM Forum, Xen Summit, LinuxCon and USENIX. He has over 20 years of experience with operating system internals and virtualization.)*

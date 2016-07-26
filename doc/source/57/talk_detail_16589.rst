@@ -1,0 +1,9 @@
+MidoNet 101: An Introduction to the Controllerless Open Source Neutron Plugin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+MidoNet is a popular Neutron plugin for large scale OpenStack clouds (1000+ cores). MidoNet is an open source network platform that can be used to build individualistic network topologies on top of existing IP networks without having to modify the underlying infrastructure. Today, MidoNet users with OpenStack are empowered to scale and benefit from a rich featureset. And you do not need special hardware for using MidoNet, as it is all based on software. With its cross-platform capabilities, MidoNet is quickly becoming one of the most recognized solutions in the SDN space! This session is intended to provide beginners with an introduction to the controllerless SDN solution MidoNet. Forget the painpoints of VLANs, bottlenecks, and running an SDN blindly. Whether a novice to networking or an expert looking for an advanced networking solution, attendees will learn how MidoNet simplifies the deployment while providing higher layer services and the ability to scale out OpenStack clouds.
+
+
+* **Cynthia Thomas** *(Cynthia is a Systems Engineer at Midokura. Her background in networking spans Data Center, Telecommunications, and Campus/Enterprise solutions. She is a frequent speaker at cloud conferences such as OpenStack Summits, OpenStack meetups and the IT Cloud Computing Conference (IC3). Cynthia has earned a number of professional certifications, including: Alcatel-Lucent Network Routing Specialist II (NRS II) written certification exams, Brocade Certified Ethernet Fabric Professional (BCEFP), Brocade Certified IP Network Professional (BCNP), and VMware Technical Sales Professional (VTSP) 5 certifications. Cynthia received her B.Sc.(Eng) and M.Sc.(Eng) from Queen’s University in Kingston, Canada.)*

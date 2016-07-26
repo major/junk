@@ -1,0 +1,11 @@
+MidoNet Scalability Testing with Neutron in AWS to 1000 nodes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+The flexibility of SDNs in contrast to traditional networks that are bounded to hardware restrictions is increasing the need to provide SDN scalability benchmarks such as the maximum number of hosts, routers, networks or virtual machines; what is the supported workload or the maximum flow setup rate. Although SDN is revolutionizing data center networks, its testing, benchmarking and monitoring at scale remains a major challenge which requires the tools capable of handling thousands of resources, such as ports or instances as well as the traffic between them. This talk presents the scalability tests done for MidoNet with OpenStack Neutron using open source tools in AWS. Using AWS and fleet spots instance we are able to launch more than 1K compute hosts for less that 100$ / hours. OpenStack Rally runs tasks for addressing scalability benchmark tests while monitoring different metrics such as virtual topology objects count with InfluxDB, Telegraf and Grafana.
+
+
+* **Antonio Ojea** *(Antonio Ojea is the QA team leader for Midokura. He was graduated Telecommunications Engineer by Vigo University (Spain) in 2002. He worked as a engineer specialist in networks, security and Linux systems in a Regional Telecommunications Company for more than 10 years. He participated in his spare time with several security reseach groups to fight malware and other network threats. He took advantage of the opportunity offered by Midokura to join the company in 2015 to apply his real-life, in-the-trenches bussiness experience to help to make midonet more robust, performant and scalable.)*
+
+* **Lucas Eznarriaga** *(I'm currently working as QA Engineer at Midokura in the Software Acceptance team. Previously, I worked as a Consultant Engineer at Altran Spain and as a Research Assistant at Institute IMDEA Networks investigating in the field of wireless networks. I hold a degree in Telecommunications Engineering and an MSc in Telematics Engineering from Universidad Carlos III de Madrid. In the year of 2010, I took on an internship funded by the European Erasmus Placement Program at the Deutsche Telekom Laboratories in Berlin.)*

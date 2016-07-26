@@ -1,0 +1,9 @@
+Peeling Back The Giftwrap: How to deploy a custom and consistent OpenStack every time
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Giftwrap is an OpenStack big-tent project that allows operators and developers to build, deploy, and upgrade OpenStack environments with ease.  IBM Blue Box has a long history of delivering consistent OpenStack environments in a continuous delivery fashion, and Giftwrap has been the tool that makes this all possible. In this session we will take a deep-dive into how Giftwrap enables an operator to deploy custom OpenStack system packages and/or containers. We will pull back the curtain and provide demonstrations on how to perform a major OpenStack upgrade as well as how to ship custom code in a reliable and repeatable manner.   
+
+
+* **Craig Tracey** *(With over fifteen years of experience building scalable, automated infrastructure solutions, Craig serves Lead Architect for IBM Blue Box. In his role, Craig leads a team responsible the development of OpenStack-based on and off-prem private cloud solutions.  His focus includes everything from operations, support, and new feature development for all production OpenStack environments. Prior to Blue Box, Craig was the Cloud Automation Technical Lead at HubSpot where he designed software solutions for delivering SaaS products on top of a variety of public cloud offerings as well as home-grown private OpenStack implementations. Prior to HubSpot he helped engineer Carbonite's backup solution to over 60 petabytes and at VMware maintained network device drivers for both ESX and vSphere. Craig is an active contributor to a number of cloud ecosystem projects including OpenStack, Neutron, Nova, Giftwrap, cloud-init, Ursula and Chef for OpenStack. He holds a Bachelor of Science degree in Computer Science from Providence College and is based out of Boston, Massachusetts.)*

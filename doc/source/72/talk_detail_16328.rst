@@ -1,0 +1,9 @@
+OpenStack Operators - Compute and OVS Debugging: Finding the right tools
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+OpenStack in Production is now mainstream, with 60%+ adoption of OVS (openvswitch) as the de rigueur solution for Clouds running Neutron and Network services (Provider Networks), we have now a higher demand for actually mantaining the virtual switch and Linux stack in proper fashion. It's clear that Operators need the right tooling to isolate and troubleshoot issues, such as flows between Nova Compute Nodes and VMs, finding tap interfaces and virutal etherports and also simply being able to debug information and find relevant material in the community. The challenge is that the Linux Networking stack is complicated and tooling varies from simple command line (tcpdump)to more sophisticated projects such as SkyDive / PlotNetCfg and a myriad of third party SDN tooling. This session will be a refresher on what is out there and what can make life easier for operators and sharing the tool with the #openstack-operators and sharing on https://github.com/osops. 
+
+
+* **Christoph Torlinsky** *(Interested in all things OpenStack, Learning, Brainstorming, Contributing, all the usual...based in London, originally from Berlin, and lived and worked in San Francisco for a bit. I'm engaged across Europe for Nuage Networks, Presenting, Developing and generally spreading the word about Software Definition, all around Cloud Computing and also OpenStack itself. I travel alot, and also do Meetups locally in London and Germany, we probably have bumped into each other one or an OpenStack Day. Please see my LinkedIN for more details, been working on and using OpenStack in the field since 2013, before it became 'commercially' available from Linux vendors.   c)*

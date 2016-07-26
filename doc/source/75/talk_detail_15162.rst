@@ -1,0 +1,9 @@
+Title: Container Defense in Depth
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Defense in depth is an information assurance technique used to protect a system from any particular attack - use of blended countermeasures, working together to meet control and governance requirements. In a containerized world, defense in depth is applied by thinking about security within a container, on the container host and at the container platform layer. This talk will cover numerous technologies and practices at each layer - from kernel quality, SELinux (svirt), SECCOMP, and use of root, to measuring attack surface, patch remediation, and platform level authentication/authorization, these are the droids you are looking for. This talk will help an end user understand the breadth of tooling that is available at each level and how they will help protect their system from intrusions and compromises.  
+
+
+* **Scott McCarty** *(At Red Hat, Scott McCarty helps to educate IT professionals, customers, and partners on all aspects of Linux containers, from organizational transformation to technical implementation, and works to advance Red Hat's go-to-market strategy around containers and related technologies. He also liaises with engineering teams, both at the product and upstream project level, to help drive innovation by using feedback from Red Hat customers and partners as drivers to enhance and tailor container features and capabilities for the real world of enterprise IT.Scott is a social media start-up veteran, an e-commerce old timer, and a weathered government research technologist, with experience across a variety of companies and organizations, from seven person start-ups to 8,000 employee technology companies. This has culminated in a unique perspective on open source software development, delivery, and maintenance.)*

@@ -1,0 +1,9 @@
+Containers networking acceleration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+The use of Containers in OpenStack is growing, mostly around high performance work load such as NFV. While virtual machines networking stack evolved over time and offer many accelerations, Containers networking is significantly behind.  In this talk we'd like to present a proposal to enable network adapters stateless offloads such as: Receive Side Scaling (RSS) and Transmit Side Scaling (TSS) Accelerated Receive Flow Steering (RFS Dedicated HW descriptor ring and buffers for receive and transmit with containers. During the talk we'll show how we allow the above offloads to apply for Container networking through exposing them for vEth devices. This includes RSS/TSS and aRFS for steering packet processing to each Container associated cores and as well as assigning dedicated HW receive and send queue and buffers for each Container, resulting with enhanced network performance for Containers through standard existing administration tools
+
+
+* **Erez Cohen** *(Erez Cohen acts as Mellanox Vice President for CloudX Program, responsible for all aspects of the program including architecture, implementation and marketing/sales. The CloudX program incorporate Mellanox state of the art network and storage interconnect product lines to form the most efficient and scalable cloud infrastructure. Between 2003 and 2013 Mr. Cohen led the Field Engineering group at Mellanox. In this position Mr. Cohen was responsible for Global pre and post sales technical support for OEMs and end users. As part of this role Mr. Cohen was involved with some of the largest and most complex data centers and High Performance Computing clusters in the world. Between 2000 and 2003 Mr. Cohen lead the Architecture and Design Validation group at Mellanox. Mr. Cohen holds a Bachelor of Science in Computer Engineering from the Technion Israel Institute of Technology.)*

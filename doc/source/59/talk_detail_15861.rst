@@ -1,0 +1,13 @@
+Scaling Science Clouds in Europe with TOSCA and Heat Translator
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Last summit we introduced the work being done by the Indigo DataCloud project, whose members include CERN, UPV and many other institutions in Europe. The goal is to build a sustainable infrastructure for science, spanning multiple computer centers and existing public clouds. We rely on TOSCA as the standard to model the full stack, and have now expanded the infrastructure to include multiple OpenStack and OpenNebula sites and public clouds running proprietary software. As the infrastructure grows and extends to include more countries, so do the use cases both in number and complexity. In this presentation we will summarize the work being done both in the Heat Translator and the TOSCA parser, and how we build on them to model and deploy our infrastructure. We will demo a complex application defined using TOSCA and deployed in multiple heterogeneous sites, along with some of the workflows we apply to running applications.
+
+
+* **Mathieu Velten** *(Mathieu Velten is a software engineer at CERN. He's currently a member of the CERN OpenStack team, focusing on service and application orchestration and container deployments, and working on the Heat translator for the INDIGO DataCloud eurropean project. Previous work included Technological Research at Atos Toulouse mainly for the French spatial agency regarding container and new Big Data technologies like Mesos and Kubernetes, and several years of Eclipse development for Model Based applications.)*
+
+* **Sahdev Zala** *(Sahdev Zala is an IBM Advisory Software Engineer in the IBM Cloud Architecture and Technology organization. In his current role, Sahdev is Project Technical Lead (PTL) of OpenStack TOSCA-Parser and Heat-Translator projects. Both the projects are part of OpenStack Heat main program. He is a TOSCA Technical Committee member. He has also contributed towards LDAP enhancements in the OpenStack Keystone. Previously, he worked on developing IBM software for small and medium businesses and cross-product serviceability initiatives. He has authored IBM Redbooks, articles for developerWorks and ThoughtsOnCloud, white papers and technical documents on a variety of topics.)*
+
+* **Miguel Caballer** *(I obtained the B.Sc. M.Sc, and PhD degrees in Computer Science from the Universidad Politécnica de Valencia (UPV), Spain, in 2000,  2012 and 2014 respectively. I am part of the Grid and High Performance Computing group of UPV since 2001. I  have participated in different research projects about the application of Grid and Cloud computing techniques to several areas of engineering. Other fields of interest include green computing.)*

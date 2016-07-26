@@ -1,0 +1,9 @@
+The Fall and Rise of Open Stack Cloud Appliances
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+There are two trends effecting IT organization around Open Stack. The first is Open stack is evolving from it’s initial developer focus on “do-it-yourself” clouds to focusing on improving the operations and ROI of running Open Stack. The second trend is the rise of appliances (hyper-converged and converged infrastructures)  as a way IT and Business owners are consuming technology. Both trends are pushing for IT to provide faster services (provisioning, scaling, flash), self-service offerings, pushing against network, storage, virtualization/compute admin IT silos, and expecting dynamic on-demand scale at lower cost.     
+
+
+* **Troy Mangum** *(I have a 15 year history in competitive product technical analysis on vectors such as performance, usability, feature functionality, cost, extensibility, product maturity, etc... I have a keen eye for what is valuable in companies offerings vs. what is just hype. I spent last 10 years in technical leadershp roles within EMC and NetApp I love to Inspires Others to Connect Solutions and Products to Actual Business Needs of Enterprise data centers and Service provides customers. I am a experienced Strategist who is always exploring market trends seeking to educate customers on how to take informed risks to capture value from emerging markets My day job is running a Solutions Architecture (we call them Technical Marketing Engineers/ Performance Engineers) and Software Engineering organization responsible for products, solutions and reference archtiectures that spans Hybrid Cloud, Public Cloud, and Private Cloud for NetApp. I am also responsible for Enterprise Application solutions on Converged and Hyper Converged Infrastrutures for Netap)*

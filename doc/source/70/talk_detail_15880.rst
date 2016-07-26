@@ -1,0 +1,13 @@
+Operation tool to make OpenStack operation easy and accelerate operation speed on multi regions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+NTT Communications provides the public cloud service by OpenStack which is Enterprise Cloud 2.0(ECL2.0) from this March. Our regions will be Japan, UK, Singapore, US, Australia, Hong Kong and Germany this October. In the near future, the regions will expand to 14. We created our ops tool (Operation Portal) with GUI. Operators who aren’t familiar with OpenStack can operate ECL2.0 and find which customer was affected by failure and when failure happened and was recovered by this tool. Our main target is enterprise customers. The customers in Japan expect high quality operation. ECL2.0 provides IaaS with High Availability. However our customers are not satisfied with only HA. They want a notification. Therefore operators look into failure and send a notification to them by Operation Portal. We will expand operation team to our affiliate company in India for controlling multi regions this October. Operation Portal fills in the gap of operation between Japan and India.
+
+
+* **Yasutaka Morioka** *(Yasutaka Morioka is System Administrator of Cloud Service at NTT Communications. He is working as system administrator of server and storage of cloud service for six years. And also he worked at Verio, inc. as techinical account manager and cloud system administrator for one year. He graduated from Graduate School of Engineering, Osaka university. Originally he came from Osaka in Japan and likes Osaka local culture and music.)*
+
+* **Shohei Okada** *(March, 2013  Graduated Osaka University. March, 2015  Graduated Graduate school of engineering Osaka University. Majored in the optical fiber transmission and published three papers there. April, 2015 Started working in NTT Communications. Work for service operation of cloud services.)*
+
+* **Kazuma Masuda** *(Kazuma Masuda is working currently with cloud infrastructure as a server engineer. He grew up in the state of Georgia(U.S.) during my youth, came back to Japan for my high school, and started my computer science education during college years. For the 5 and a half years he has been with the company, his role has been a technical engineer for product operations. He has experience as a technical engineer with managed application hosting services, data storage service, and software managed VPN service. He is involved in an operation transition project for an openstack based cloud service to members across the ocean who will be mostly unfamiliar with openstack technology.)*

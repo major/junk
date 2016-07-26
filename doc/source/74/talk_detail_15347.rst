@@ -1,0 +1,9 @@
+T-Systems Open Telekom Cloud (OTC) powered by OpenStack: Experience with DefCore certification.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+The Open Telekom Cloud builds on a cascaded OpenStack configuration that is accompanied by vendor specific software to provide the advantage of cloud specialized hardware to IaaS customers. At the core OpenStack Juno with dedicated backports from younger releases is used making this a tailored version.  Committed to open source and to ensure compatibility to OpenStack capabilities and APIs we are bound to do the DefCore certification. Even it is not challenging enough to pass the tests in this configuration itself the setup of OpenStack has to fulfill product requirements from T-Systems to provide a secure and quality services for customers on top of it. This talk is about our journey and learning to archive DefCore certification. We want to share how we bridge the technical obstacles originated from demands of the different parties and cultures involved, as well as what we were able to give back to the DefCore team to improve OpenStack as the leading open source cloud platform.
+
+
+* **Christian Kortwich** *(- Build cloud platform with OpenStack for small and medium business partners since 2012 at Deutsche Telekom and T-Systems International - Software development and integration for multi service access network nodes (MSAN). - Build platforms for telecommunication systems in mobile core network, business support and access network. - Software Development and cunsulting for command and control systems for police and fire brigades - Working in ESA and ESPRIT research projects for robotics and spaceflight (LORA) - Software development on robotic test beds - Feasibility studies for industry to improve effiicentiveness - Administration of UNIX and DEC machines and networks)*

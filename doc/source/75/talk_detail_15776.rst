@@ -1,0 +1,9 @@
+Improving cloud trust with the TPM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Most of what you've heard about the TPM is all about measurement and the difficulty of connecting it to cloud applicatons.  However, this talk won't talk about this.  Instead I'd like to concentrate on a couple of use cases where we can improve cloud trust by using the TPM.  Besides measurement, TPMs can manage and escrow secret keys (escrow means you can load a key into the TPM in a way it can never be extracted) and bind and seal secrets.  Some of the most significant cloud trust problems are how you load your keys and secrets into a cloud application in such a way that a hacker can't seal them.  This talk will present a practical use case for this for VPNaaS, which is likely to be the foundation for hybrid cloud.  We'll also discuss some of the limitations, like an escrowed key can only be uploaded to a single known TPM, which is tied to a physical system, so cloud use of the TPM presents placement and migration problems for cloud orchestration systems.
+
+
+* **James Bottomley** *(James Bottomley is a Distinguished Engineer at IBM Research where heworks on Cloud and Container technology.  He is also Linux Kernelmaintainer of the SCSI subsystem. He has been a Director on the Boardof the Linux Foundation and Chair of its Technical Advisory Board. Hewent to university at Cambridge for both his undergraduate anddoctoral degrees after which he joined AT&T Bell labs to work onDistributed Lock Manager technology for clustering. In 2000 he helpedfound SteelEye Technology, a High availability company for Linux andWindows, becoming Vice President and CTO.  He joined Novell in 2008 asa Distinguished Engineer at Novell's SUSE Labs, Parallels (later Odin)in 2011 as CTO of Server Virtualization and IBM Research in 2016.)*

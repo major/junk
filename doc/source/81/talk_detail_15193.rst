@@ -1,0 +1,13 @@
+Open, Scalable, & Integrated Networking for Containers & VMs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+How can you easily make VMs, bare metal and container all talk to each other seamlessly? By implementing integrated networking between containers, VMs and baremetal. In this talk, we will discuss the work being done in Project Kuryr to integrate OpenStack Neutron with container networking. We will also discuss Open Virtual Networking (OVN), a new network virtualization project being developed to scale to the needs of VMs, containers and bare metal. All of this allows for the integration of containers, VMs and bare metal. Come to this talk to hear an update on current activity in these critical infrastructure open source projects. We will share how each of these pieces fits together. We will also present a demo showing all of these technologies working together to build a common networking layer to support your compute needs in an OpenStack cloud.
+
+
+* **Kyle Mestery** *(Kyle is a Distinguished Engineer and Director of Open Source Networking at IBM. He leads a team focused on Open Source networking at scale. Kyle is also a member of the OpenStack Technical Committee, and the former PTL of OpenStack Neutron for the Juno, Kilo, and Liberty cycles. Kyle lives with his wife and kids in Minnesota.)*
+
+* **Phil Estes** *(Phil is a Senior Technical Staff Member with IBM's Cloud Open Technologies team. The Open Technology team leads IBM's strategy and involvement in key cloud open source technologies, including Docker, Cloud Foundry, and Openstack. Phil is a core contributor and maintainer on the Docker engine project and is a leader and expert within IBM on container and cloud open source technologies. He regularly helps both IBM product teams and IBM's customers to apply container technology and concepts to their cloud strategy and implementation. Phil speaks regularly at industry conferences and meetups and enjoys helping customers and developers alike understand this fast growing ecosystem.)*
+
+* **Flavio Fernandes** *(Flavio is a senior software network developer at IBM cloud. Lately, he has been deeply involved with Open Virtual Network for the Open vSwitch project. Prior to IBM, Flavio also worked with SDN technologies at Red Hat and Plexxi. At Red Hat, he was a core contributor to the OpenDaylight Netvirt+OVSDB project. At Plexxi, he worked as a lead engineer of the optical switch. With over 19 years in the networking  industry, Flavio has also worked extensively on routing protocols and high availability at Juniper Networks.  )*

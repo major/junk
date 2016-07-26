@@ -1,0 +1,9 @@
+Testing OpenStack APIs with Gabbi and Tempest
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Cloud developers, deployers and users can use tempest to test and validate cloud APIs and services but are limited in what they can test by the clients that are built in to tempest and the existing tempest plugins. While plugins provide a useful way to extend tempest capabilities this can be cumbersome when what is wanted is a clear way to exercise or test APIs. This presentation will introduce gabbi, a toolkit for declarative testing of HTTP APIs, and show how it can be integrated, via a small plugin, with tempest to create testing scenarios from the simple to the complex in an easy to read and write YAML-based format the directly represents HTTP requests and responses. These scenarios can become permanent parts of integration suites or, because they are easy to manipulate, be created as needed for experimentation and discovery.
+
+
+* **Chris Dent** *(Chris has been working with and developing various forms of distributed systems for around 25 years. When he landed in the world of OpenStack, Chris started with the Telemetry project and has since moved into improving the scheduler in Nova. Chris is primarily interested in the ways groups of people use networked technology to collaborate, exploring the problem space of information sharing and reuse. He hopes to help make himself and everyone else less dumb. He is a core reviewer in the API working group and several telemetry related projects and is the author of Gabbi, an HTTP testing tool, and a large suite of diverse experiments for enhancing asynchronous collaboration on the internet, notably TiddlyWeb and PurpleWiki. In OpenStack, Chris is striving to bring about some semblance of maturity, composability and accessibility to the services.)*

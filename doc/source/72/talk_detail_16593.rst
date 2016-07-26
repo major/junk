@@ -1,0 +1,13 @@
+OpenStack Networking SFC and L2GW service through OpenDaylight
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+In this session speakers will mainly talk about the following OpenStack Services and how they are being implemented using the OpenDaylight Controller: OpenStack Service Function Chaining (networking-sfc) OpenStack L2 Gateway Service Speakers will talk about the architecture and high level design of the solution implemented in OpenDaylight to support the OpenStack SFC API and L2 Gateway APIs. Speakers will go through the details of all the component developed across the OpenStack (networking-odl) and OpenDaylight projects (neutron northbound, netvirt and OpenDaylight SFC project) to realize these services. They will talk about the NFV usecase of OpenStack SFC and dive into details of architecture of how OpenStack Tacker project is consuming OpenStack SFC APIs to realize Tacker VNF-FG API's. Speakers will also go through the details of L2 GW Usecase and discuss the architectural details of the service implementation using OpenStack networking-ODL and OpenDaylight.
+
+
+* **Anil Vishnoi** *(Anil Vishnoi is a Principle Software Engineer at Brocade R&D, US. His research & development focus includes SDN, network virtualization, cloud and data center networks. Anil has been an active participant in OpenDaylight since inception and contributed to a number of projects and technologies including the OpenDaylight Controller, OpenFlow Plugin Project, OpenDaylight OVSDB project, load balancer sample applications,the MD-SAL based Statistics Manager module. For more details about his prior research in these domains please refer https://scholar.google.co.in/citations?user=Y0iwRTYAAAAJ&hl=en)*
+
+* **Vishal Thapar** *(Vishal Thapar works as Tech Lead with Ericsson SDN Conroller project and currently contributing to VPNService and OVSDB HWTEP Projects in OpenDaylight. Vishal has over four years of experience in SDN/OpenFlow. Earlier, apart from designing high availability in the solutions developed for private clouds using OpenStack Neutron, he contributed in the OVS based firewall design. He was also involved in the development of switch software and high availability of an OpenFlow controller.)*
+
+* **Vivekanandan Narasimhan** *(Vivek is working with OpenStack community from Havana and is an Active Contributor to Openstack Neutron He also spends his time on architecting solutions for Private and Public Clouds for HP Cloud customers.  Before involved in Openstack community, Vivek was involved in developing BYOD (Bring Your Own Device) solutions for Converged Network Infrastructures (Wired and Wireless). )*

@@ -1,0 +1,11 @@
+Accelerate the OpenStack Root Cause Analysis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+OpenStack is a multi-layered cloud infrastructure with many complex internal and external dependencies: Software, Hardware, Storage, OS and Networking. Hence, when the system is troubled, you need to run multiple commands and check different areas before you can define where to perform a deep dive troubleshooting. The objective here is to shorten the initial investigation and focus on the most probable cause of the issue.   This is leveraging the knowledge accumulated by escalation engineers while managing real customer environments running OpenStack. Therefore, we know what are the main checkpoints. And, we can automate the diagnostic without having to open the UI. This also provides a good snapshot (as-built) of the system configuration at different points of time.
+
+
+* **Nebu Mathews** *(I have expertise in Solution Architecture and design of Fault and Performance management solution. I am fully conversant in the process of designing a solution, including study of network design and identifying software components that shape a performance management solution. I have extensive hands on experience & customisation knowledge of EMC M&R (Formerly APG Watch4net), EMC SRM Suite, EMC SAS Suite, EMC VxRacks Neutrino, Openstack Platform, Mycom NIMS-PrOptima, HPOV TeMIP, HPOV TSM.)*
+
+* **Yassir Laraki** *(Software development and Telecom Engineer, with 12 years of hands-on experience in Solution Architecture and System Integration roles, providing technical leadership in large scale/comprehensive projects.• Have demonstrated expertise in the Integration of best practices to assure the delivery of business services at promised levels, improve operational efficiency, and optimize the resources. • Excellent ability to leverage existing functionalities and integrate/bridge multiple platforms and teams to offer innovative and creative solutions.• Have advanced understanding of Wireless and Wireline Networks as well as the Layer 1, Layer 2 & 3 architectures and their services. • Experience in converged Infrastructure based on Openstack and ScaleIO. • Excellent knowlege in supportig and troubleshooting cloud environments: Hw, Software (Linux), Network, Openstack, Docker, Database)*

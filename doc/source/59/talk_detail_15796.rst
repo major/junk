@@ -1,0 +1,13 @@
+Orchestrating an OpenStack-based IoT Smart Home
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+This session presents a reference architecture for building an IoT smart home based upon OpenStack. Our subject matter experts from IoT technology and back-end cloud platform will share their experiences on how to integrate an end-to-end solution from the IoT sensor to scalable cloud-based applications. In this session, we will discuss how various OpenStack components can be used to build scalable applications with back-end analytics for the IoT connected devices. The reference architecture features open-source components such as Zephyr, Ostro, MinnowBoard Max, Cloud Foundry, OpenStack and Open Connectivity Foundation’s IoTivity for interconnectivity.
+
+
+* **Dr Yih Leong Sun** *(Dr Sun accumulated more than 16 years of experience in software development and infrastructure deployment. He obtained PhD Computer Science (Multi-Cloud Infrastructure) in 2013. He spent the past 7 years on Multi-Cloud infrastructure development. He currently serves as a Senior Software Cloud Architect for Intel Open Source Technology Center. Prior to that, he was a Principal Software Engineer for a Fortune-100 Insurance Group, working for the next-generation Cloud platform project. He also led the engineering team of a few start-up companies in Singapore and Silicon Valley. His expertise is in Multi-Cloud orchestration and with a strong interest in building an Enterprise Multi-Cloud platform.)*
+
+* **Michael Kadera** *(Michael Kadera has over nineteen years experience in Intel leading enterprise software development, Cloud and Infrastructure DevOps teams. Michael lead Intel IT’s Open Cloud Program in the design and implementation of private and Intel’s first hybrid cloud solutions. His team delivered deep technical and IT solutions and shared architecture knowledge across a wide spectrum of data center practices including orchestration, security and compliance, multi-tenancy and scalability in applications and software defined infrastructure.   Michael now part of Intel’s Open Source Technology Center leading the Cloud & Data Center Technical Marketing Engineering team.)*
+
+* **John Geier** *(John has held several roles at Intel over the past 20 years, working with cutting edge Intel Architecture from Alpha to Production stages. He has spent over a decade in architecture, management, and deployment of datacenters. He currently serves as a Technical Marketing Engineer for the Intel Open Source Technology Center, focused on cloud and data center technologies. His expertise in this area is architecture and deployment.)*

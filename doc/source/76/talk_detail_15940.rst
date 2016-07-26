@@ -1,0 +1,11 @@
+Using OmniPath fabric in OpenStack
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+High Performance Computing (HPC) workloads require a balance of computation, memory access and inter-node communication. Efficient memory access may require understanding low-level memory topology, including non-uniform memory accesses for SMP systems (NUMA). For optimal communication inside HPC cluster fabric interconnection solutions, like Intel's OmniPath, are used. Cloud computing traditionally use Ethernet-based solutions and SW-defined networking for communication. Is it possible to merge the flexibility of cloud solutions with the performance of bare metal cluster? In our presentation will show experience with using OmniPath in OpenStack. Performance results for HPC benchmarks executed on virtual machines are presented and compared with the same benchmark results obtained on the bare metal. Guidelines and examples, how to configure virtual environment, including OmniPath interfaces and NUMA nodes, to get the optimal performance results for HPC workloads are presented
+
+
+* **Piotr Uminski** *(Piotr Uminski has been a software architect for Intel since 1999. He is currently working on HPC software for Intel Xeon and Intel Xeon Phi processors. Previously he participated in several wireless communication projects based on Intel IXP network processors, and took part in designing and implementing OpenGL driver for various generations of Intel graphic. During his work at Intel he participated in defining the IEEE 802.3 standard, and the OpenGL standard in the Khronos Group. Prior to Intel, Piotr was employed by Elektrobit OY and Olicom OY, focusing on telecommunication software. During that time he was also an assistant at Gdansk University of Technology, Faculty of Electronics, Telecommunication and Informatics where he conducted classes on low-level system programing. He received his PhD and M.Sc. in computer science from Gdansk University of Technology. He is an author and co-author of more than 10 publications, and contributor to numerous scientific conferences. He holds one U.S. patent.)*
+
+* **Jakub Dlugolecki** *(Software Engineer at Intel, previously network admin in the same company.)*

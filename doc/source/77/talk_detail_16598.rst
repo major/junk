@@ -1,0 +1,9 @@
+NFV Multi-VIM Management and Orchestration (MANO) with a VMware/OpenStack Demo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Telcos have been waiting for the world of open & interoperable collaborative software to replace existing & costly proprietary black-box hardware.  The promise of NFV on OpenStack makes all this possible, however many existing network functions have been written to run on existing VMware environments, & achieving the true benefit of multi-VIM NFV interoperability & portability has been a challenge.   Many of these organizations are looking to leverage existing investments & reliability of VMware architecture, coupled with the new open & futureproof world of OpenStack-based infrastructure. To enable the seamless portability between existing architecture to cloud environments, multi-cloud orchestration is key.  This live deme will show how to compose services on top of hybrid cloud environments, transition legacy apps & VNFs between VMware & OpenStack, with some components running on VMware and others on OpenStack, all through a single pane of glass, to leverage the best of both worlds.
+
+
+* **Shay Naeh** *(Shay Naeh is a seasoned technology professional with over 20 years of experience in the areas of internet ventures, cloud services and enterprise software who helps lead technical innovation on the Cloudify team at GigaSpaces. He has driven the directions of several successful start-ups and ventures.  Some of Shay’s expertise includes deep coverage of networking, DPI and protocols, and specifically NFV, network automation and orchestration, virtualization, security, web acceleration, large-scale applications, application performance management, cloud multi-tenant models, SaaS, agile prototyping and more.  Shay is an avid blogger and technology writer.  )*

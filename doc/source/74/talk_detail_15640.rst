@@ -1,0 +1,9 @@
+Migrating a bare metal server into the OpenStack platform: it's possible
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+After releasing our bare-metal offering based on OpenStack's Ironic, we had a choice to make regarding our current customers’ existing product and services. Being hell-bent on providing them with long term, viable solutions, we decided to convert as much of their infrastructure as possible to the new platform. From dedicated servers to fully Ironic-managed ones, Maxime Bélanger and Paul Millette will present a process that attendees can follow to convert servers and infrastructure, to adapt network models and to ensure compatibility between the two platforms. They will also walk through the tools developed and used through this conversion process and the challenges faced along the way.
+
+
+* **Maxime Belanger** *(An experienced software developer, Maxime is relatively new to the world of Cloud Engineering Technologies. Despite that, he is quickly learning to appreciate the complexities and possibilities that they bring, especially OpenStack. His first encounter with cloud technologies was at CAE inc. where, as a software architect, he was responsible for the Continuous Integration and Continuous Delivery platform. This platform enabled CAE to quickly deliver better software on Full Flight Aircraft Simulators (FFS) for multiple airlines and CAE's training centers. At Internap, he is the Technical Lead of the Business Facing development team, responsible of automating business processes such as Cloud ordering, delivery and configuration, billing and invoicing. On a side note, as we all know, a software developer is a sedentary animal. So Maxime is religiously following a CrossFit class, so that he can continue to be a consummate foodie.)*

@@ -1,0 +1,13 @@
+Crystal: Open and Extensible Software-Defined Storage for OpenStack Swift
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Crystal is the first open and extensible Software-Defined Storage architecture for OpenStack Swift. Crystal provides simplified policy-based storage management to system administrators in a "If-This-Then-That" (IFTTT). These policies can change the behavior of  the system by transparently intercepting object requests with storage transformations or filters ("That"). The enforcement of filters may be static or dynamic based on monitoring metrics ("This"). Crystal's dashboard extends Horizon for enabling administrators to write policies and monitor the system. Crystal integrates several storage filters and monitoring metrics that demonstrate its feasibility. For instance, Crystal handles policies that enforce data compression or caching on object requests based on a container's activity, or it can enforce multi-tenant bandwidth differentiation. Moreover, both storage filters and inspection metrics can be plugged-in at runtime to extend the system's capabilities in a transparent manner.
+
+
+* **Raúl Gracia-Tinedo** *(Raúl Gracia-Tinedo received his M.Sc. in Computer Engineering and Security in 2011 and his Ph.D. in Computer Engineering in 2015 with distinction grade, both at the Universitat Rovira i Virgili (URV). During his PhD, he worked at IBM Research (Haifa) and Tel-Aviv University under the supervision of Dalit Naor and Sivan Toledo, respectively. He is currently a postdoc in the Architectures and Telematic Services research group at URV. His research interests include distributed storage management, cloud computing and performance evaluation of systems, with more than 15 papers. He received the Best Dataset Award at ACM Sigcomm IMC’15. He has actively participated in EU research projects (FP7-CloudSpaces and H2020-IOStack). Contact him at raul.gracia@urv.cat.)*
+
+* **Pedro Garcia Lopez** *(Pedro García-López is a professor in the Computer Engineering and Mathematics Department at URV, where he also leads the Architectures and Telematic Services Research Group. His research interests include distributed systems, peer-to-peer systems, cloud storage, software architectures, and middleware and collaborative environments. García-López has a PhD in computer science from University of Murcia. Contact him at pedro.garcia@urv.cat.)*
+
+* **Yosef Moatti** *(Yosef Moatti is a member of the research staff at IBM Research–Haifa, Israel. His research interests include Big Data analytics and storage frameworks. Moatti has a doctorate in computer science from Télécom ParisTech.)*

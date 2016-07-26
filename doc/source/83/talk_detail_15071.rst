@@ -1,0 +1,9 @@
+Rock the (dev) docs
+~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+As developers and support team members, operators and hobbyists, you routinely communicate your expert product knowledge as you work. First time contributors are always encouraged to commit to the documentation. This is because it is a fast, efficient, and effective way for new contributors to learn how to contribute and take a look at what OpenStack projects are working on currently. In a nutshell: Software documentation is an integral part of any software development process. OpenStack manuals has a strict set of conventions which each new contributor follows, just as each development project has a set of guidelines for any code patches. So let’s extend these guidelines to each project’s developer documentation. In this session I will cover: How to start with your first dev doc commit How to structure your developer documentation for the best usability and readability How to ensure you are following the documentation guidelines How to move beyond your initial contribution
+
+
+* **Alexandra Settle** *(Alexandra Settle used to work remotely as a technical writer with the Rackspace Cloud Builders Australia team, but recently relocated to the United Kingdom and now resides in London working on Rackspace Private Cloud and OSIC.She is a core reviewer for OpenStack manuals, spends her spare time dabbling in the Openstack Ansible and swift docs, and mentors documentation for the Outreachy project.Alex began her career as a writer for the cloud documentation team at Red Hat, Australia. She has had a keen interest in IT since high school, prefers Fedora over other Linux distributions, and loves potatoes. Alex was also part of a team that authored the OpenStack Design Architecture Guide, and hopes to further promote involvement in the OpenStack community within Australia.)*

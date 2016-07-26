@@ -1,0 +1,11 @@
+Virtual Network Functions (VNF) : From Machine to Cloud
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Open Source and Network Function Virtualization (NFV) are forcing Telecommunication Companies to transform how they consume traditional network (and enterprise) functionality. For NFV, existing applications need to evolve in order to leverage the flexibility and elasticity of a distributed cloud platform like OpenStack. Virtual Network Function (VNF) vendors need to adapt their applications and make a “cloudification” process that will embrace OpenStack as the NFVi reference platform. One example of a “cloudification” transformation is Virtual Device Role Tagging. Traditionally, Network Functions (NFs) have ordered/named network interface card (NIC) devices in a consistent way based on either MAC addresses or PCI addresses. While the former still works,  it does not scale well in the cloud, and the latter is simply no longer possible. This talk will explain and demonstrate how to transform a traditional NF into a proper VNF using OpenStack specifications in terms of NIC ordering.
+
+
+* **Ricardo Noriega** *(Ricardo is a Software Engineer in the Office of Technology working as NFV Partner Engineer at Red Hat. He's been doing R&D related to OpenStack for the past three years. He is passionate about new technologies (NFV/SDN) and everthing related to the Open Source world. Ricardo holds a MSc Degree in Telecomunications from Technical University of Madrid (UPM). He loves music, photography and outdoor sports.)*
+
+* **Jean-Philippe Jung** *(Jean-Philippe (JP) Jung joined Red Hat in 2014 as part of the eNovance acquisition. JP is currently working as Engineering Partner Manager, interacting with partners in the OpenStack/NFV space to define, track and coordinate the development of upstream features. JP worked before as Technical Project Manager overseeing Openstack project deliveries in North America in agile mode, working on cloud migrations and feature development coordination. Driven by the love of technology, he previously mixed former infrastructure design and virtualization experiences with SAP skills to design and run extensive virtual SAP environments starting as early as 2006.)*

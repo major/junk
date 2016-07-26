@@ -1,0 +1,11 @@
+Realizing the dream:  Openstack + Ceph for low-latency block storage workloads
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Ceph continues to be the leading block-storage-of-choice for Openstack VM deployments. Latency-sensitive workloads such as databases remain an emerging Ceph use case - latency guarantee typically a challenge in shared VM storage environments as compute/networked-storage resources cease to scale as VM density increases. With growing flash footprint on clients, flash-based read/write caching has the potential to improve storage latency by reducing IO path dependency on network/cluster. We'll introduce an ordered, crash-consistent read/write-back cache native to the Ceph block layer. Blocks will be cached on client-side SSD/NVMe/3DXPoint/NVRAM device. A shared cache mode will be supported which is an ideal fit for VM master image cache. A big feature-up from current object-based, DRAM-based cacher - flash increases cache size on packed hypervisor and improves cache warmup on restart. We'll delve into the high-level design and demonstrate performance gains with this new Ceph-RBD cache.
+
+
+* **Tushar Gohad** *(Tushar is part of Intel's Data Center Group where his primary area of focus is Software Defined/Scale-out Storage Architecture. Tushar has been working in the open-source networking and storage-related technologies for over a decade now – his recent contributions were to Erasure Code data path in OpenStack Swift, Intel’s Storage Performance Dev Kit (SPDK) and networking in the Linux kernel. Prior to joining Intel, Tushar was a lead open-source/Linux kernel developer at Cavium Networks/MontaVista Software where his focus was data-plane packet processing acceleration in all-Linux environments involving UIO, IPv6 enabling in the Linux ecosystem, Linux namespaces/containers and Linux IPsec scalability improvements. Tushar holds a Masters degree in Computer Science.)*
+
+* **Jason Dillaman** *(Jason Dillaman is a software engineer at Red Hat and has been an active contributor to the Ceph project for over two years.  Jason currently acts as the project technical lead for the RADOS Block Device (RBD) module within Ceph.)*

@@ -1,0 +1,9 @@
+“Zero tickets” deployment of applications and infrastructure in the Enterprise
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+One of the main drivers for Cloud adoption in the enterprise is the desire to improve the time to market of new features being delivered by application teams. Cloud aims to address this need by automating the many manual processes necessary to deploy code in a legacy environment. Unfortunately, all too many Cloud deployments fail to adequately address this need. In a recent Gartner study on the causes of failure of enterprise Cloud programs, 95% of respondents indicated that they faced significant issues with their private cloud deployment, and 31% of respondents attributed the cause to a failure to change the operational model. In many cases, enterprises attempt to shoehorn Cloud into their existing ticket driven workflows and find that while certain manual tasks are automated, the overall time to market is not significantly decreased, primarily due to the time spent waiting on tickets to be actioned or approved
+
+
+* **Justin Moore** *(Justin Moore is a Principal Solutions Architect at PLUMgrid specializing in developing Cloud and SDN strategy and architecture for the enterprise. Prior to joining PLUMgrid, Justin served as a Sr. Director for Enterprise Growth at American Express, establishing and leading the Cloud and DevOps functions. At American Express, Justin led the creation of the Cloud cost model, Hybrid Cloud strategy, and PCI certification of the card processing environment. The adoption of the Cloud model led to significant cost savings over the legacy environment, as well as significant reduction in time to market for new business features through tight integration with the CI/CD pipeline.)*

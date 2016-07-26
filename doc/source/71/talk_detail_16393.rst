@@ -1,0 +1,13 @@
+Building an Open Source, On-Prem, Provisioned IOPS Service
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+This presentation examines the performance characteristics of MySQL on Amazon EBS Provisioned IOPS and details how to achieve similar levels of performance with Ceph, the dominant reference driver for Cinder block storage.  It will also examine the ability of AWS to mitigate “noisy-neighbor” challenges through deterministic performance, and discuss how this could be done with upcoming enhancements to Cinder drivers for configuring QEMU IO throttling. Details from the published reference architecture will be discussed, including MySQL performance highlights from 30+ different Ceph and AWS EBS permutations measured. MySQL, and its close relative MariaDB, are consistently in the top workloads running on OpenStack clouds.  This session helps operators understand various hardware selection and MySQL/OpenStack tuning strategies to obtain target IOPS performance.
+
+
+* **Brent Compton** *(Brent Compton is Director Storage Solution Architectures at Red Hat, leading the team responsible for building Ceph and Gluster storage reference architectures with Red Hat Storage partners.  Before Red Hat, Brent was responsible for emerging non-volatile memory software technologies at Fusion-io.  Previous enterprise software leadership roles include VP Product Management at Micromuse (now IBM Tivoli Netcool) and Product Marketing Director within HP’s OpenView software division.  Within enterprise IT, Brent also served as Director Middleware Development Platforms at the LDS Church and as CIO at Joint Commission International. Clips from a recent conference presentation: https://www.youtube.com/watch?v=ngsxyn2dfus&feature=youtu.be)*
+
+* **Kyle Bader** *(Kyle Bader is a Senior Solution Architect working in the Storage Solutions Team at Red Hat, lending his design and operational skills with Ceph to help develop tested solutions that ensure repeatable success when deploying distributed, fault-tolerent, multi-petabyte storage systems. Prior to Red Hat, Kyle had architectural roles at both Inktank and DreamHost. Kyle was part of the team that brought the first production Ceph clusters to the world, supporting DreamHost's DreamObjects and DreamCompute services.)*
+
+* **Yves Trudeau** *(Yves is a Principal Consultant at Percona, specializing in MySQL High-Availability and distributed systems. Prior to joining Percona in 2009, he worked as a senior consultant for MySQL AB and Sun Microsystems, assisting customers across North America with NDB Cluster and Heartbeat/DRBD technologies. Yves holds a Ph.D. in Experimental Physics from Université de Sherbrooke. He lives in Québec, Canada with his wife and three daughters.)*

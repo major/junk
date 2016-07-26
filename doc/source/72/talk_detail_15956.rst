@@ -1,0 +1,11 @@
+Scheduled to be the Fittest: Network-aware Scheduling in OpenStack
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+More and more cloud applications, especially virtualized network functions for NFV, or HPC applications, depend on the network features and capabilities that servers can provide to run optimally. For example, certain applications may need the underlying servers to have a high link speed (40GbE), network HA (MLAG) support, or a server where the switch uplink is not congested. In this session, we are going to present a way to schedule the VM based on network awareness, so that the VM can be the fittest to applications’ networking needs. Specifically, the proposal is to add a “Network-Aware Filter” to Nova scheduler, i.e. an External agent (“Network Aware Cloud Scheduler Agent”), that exposes REST APIs for the management of resource pools/Inventory. In this manner, a user can then choose to filter or grade hypervisors according to these attributes (similar to CPU. Memory, etc.). This work was motivated by the resource providers specs driven by the NOVA core community.
+
+
+* **Moshe Levi** *(Moshe Levi acts as a Cloud Solutions Engineer at Mellanox Technologies. Leading the Mellanox integration with OpenStack, in which puts contribution to OpenStack projects, including Neutron and Nova, at the field of Single Root I/O Virtualization (SR-IOV) and Openstack high performance features deployments. Before his current position at the Cloud solutions team, Mr. Levi worked at Mellanox SW management teams, with developing large scale networking projects and SDN oriented POCs.)*
+
+* **Tal  Anker ** *(Tal Anker, PhD, is leading the Cloud architecture in Mellanox. Prior to joining Mellanox, Dr. Anker served in various positions in the IT industry, among which are CTO and director of system and software architecture for Marvell Software Solutions, and Co-Founder and Chief Technology Officer at Sensogo. Dr Anker has over 20 years of experience in Data Networking and Distributed Systems. He has an extensive research background and has patented numerous technology solutions in network security, distributed systems/algorithms, and real-time operating systems. Dr. Anker holds a Bachelor, Masters, and Doctorate degree in Computer Science From the Hebrew University of Jerusalem. )*

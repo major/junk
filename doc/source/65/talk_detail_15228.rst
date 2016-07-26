@@ -1,0 +1,13 @@
+How to lose clients and alienate coworkers - lessons learned on an OpenStack enterprise journey
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+It's not a smooth road to getting customers and developers to OpenStack. This session focuses on the missteps and the maybe next times, such as: How not to introduce OpenStack to your existing customers. Enterprises are sometimes shy about changing the paradigm by which they manage their core computing resources. Migration, security, long-term plans are all important. Making your team hate developing in the open. Devs who worked on proprietary systems don't always embrace the open source ethos. How do you get them to create blueprints, love IRC and go to conferences? Not playing nicely with the community. The community doesn't seem to appreciate hearing about how a platform brings in millions of dollars in revenue and has decades of history. Is there a way to share experiences between the enterprise and open dev communities to benefit both? Learn about how to use humility and cooperation to fix things with the community, make your team stronger, and your customers more productive.
+
+
+* **Emily Hugenbruch** *(Emily has been working on IBM mainframe virtualization for 10 years, specializing in functional test, systems management and CPU virtualization.  She contributes to the OpenStack Tempest project and writes the occasional blog on OpenStack.  She has attended the Kilo and Liberty summits and given Brown Bag talks and webcasts on IBM z/VM and OpenStack.  She's also leading the mentoring initiative for the Women of OpenStack group.)*
+
+* **John Arwe** *(I've grunged around in the mainframe kernels (z/OS SRM/WLM mostly, recently a bit of z/VM and zKVM) for many years, and took a wide detour doing standards and open source work (W3C SML and LDP, OSLC, OASIS, DMTF, Eclipse, REST APIs, Linked Data) in the middle. Lately I've been schizophrenically focused on both the z/VM nova CI system and architecting/debugging client deployments of the OpenStack and hypervisor back-end components.)*
+
+* **Ji  Chen** *(Ji Chen is a software engineer in IBM who focuses mainly on z/VM system management (s390x arch).  His daily work includes mainframe z/VM virtualization enablement on OpenStack, including the total stack of z/VM system management software such as SMAPI, xCAT, OpenStack enablement components, etc.  He is an active nova upstream community contributor.  Before working in IBM, he worked in Samsung and UTStarcom majoring in embedded system development such as embedded DBMS, operating system , file system etc.)*

@@ -1,0 +1,11 @@
+OpenStack Called to Public Service
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+As the OpenStack community and technology grow and mature, we are seeing full-circle adoption within public sector organizations. The public sector is finding that the combination of leading-edge technology and enterprise-grade capabilities makes OpenStack viable technology for meeting the policy and budget demands being handed down from top-level decision makers. In this session, we will take the journey from inception to current day adoption of OpenStack, focused on examples within government, research and scientific communities, and higher education. Attendees of this session will hear about use cases and best practices in the public sector. We’ll also share specific customer implementations of OpenStack and how they are being used.
+
+
+* **Kevin Jones** *(Kevin Jones is a Cloud Architect for Red Hat. His mission is to bring OpenStack into public service for Government, Research, and Educational entities. Kevin spends his time working with customers to define use cases around cloud and devops. Kevin has significant experience working with research and scientific computing entities to determine best fit for OpenStack and other technologies. Kevin comes to Red Hat from NASA Langley Research Center where he was the Chief Technologist for IT. In his role at NASA, he helped evangelize the use of hybrid cloud computing. Kevin came up in his career as a developer first and via curiosity, migrated to a holistic approach focused on utilizing technology to deliver business results. Kevin has been in the IT industry in Public Sector space since 2001. He came up as a developer and evolved into a full bore cloud solution architect. He carries Red Hat certification in OpenStack and Solution Architect certification in Amazon Web Services.)*
+
+* **David Huff** *(David is a senior solutions architect at Red Hat, and Team Lead for the Public Sector Virtualization and Cloud specialist group focusing on OpenStack. David has been at Red Hat for over 12 years, and has held several different roles including product development on some of Red Hat's earlier Virtualization projects.  Currently David works exclusively with the public sector supporting both federal and local customer as well as higher ED customers. )*

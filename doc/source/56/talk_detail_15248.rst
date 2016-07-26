@@ -1,0 +1,13 @@
+The China community is critical for openstack Success
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+  1：Cloud+ is quite hot topic in China Cloud Market 2：Operators become one of mainstream players in Openstack China market OpenStack market intelligent overview   OpenStack China Market landscape, eco-system , customer buying behavior, industry adoption analysis… China is improving contribution to OpenStack foundation, more and more companies involved, include upstream contribution and technical leadership OpenStack momentum with OpenStack Days China, Global Bug Smash, meetup, social... 4：Leadership in Openstack china market :  Intel 、huawei 5：China 5th Bug Smash introduction and welcome more core reviewer to join in
+
+
+* **jason shi** *(- Experienced senior level business leader with over 10 years of experience initiating and driving business growth and Innovation in telecommunication Technology, Media and Telecoms sectors; - 10 years of international management experience in Huawei of leadership roles across Strategy , sales , business operations, product management , industry development , and marketing.                                 - Chief Strategist for Europe and Huawei Software, market development strategy, ecosystem, community, process development & terminal channel. - Vice general manager of Enterprise communication of Excellence, with +50 employees, and fully responsible for people, budget and market planning , customers management, product delivery, launched new products and services in global market . - Active roles in several non-profit organizations in US & China such as W3C&Openstack, dedicated to provide better support to do industry development for global market  )*
+
+* **maggie liang** *(Mrs. Liang is  responsible for OpenStack  thought leadership, marketing program and OpenStack eco-system in China , and she is located at Beijing. She worked with parter to launch "Enterprise ready" campaign to drive the awarenesss and sales enablement of OpenStack. With over 17 years of working experience in information technology company , which include 11 years marketing function and 5 years e-business function, she worked for IBM and Dell APJ's core business team to participate the industry transformation from traditional IT infrastructure to cloud platform, when  Cloud , BD&A and Mobile are becoming the most important growth engine in China. With experienced industry knowledge and enterprise market insight , she is an excellent advidor about China enterprise market and Cloud business strategy. Mrs. Liang personality is logistic thinking, artistic style and creative idea.   )*
+
+* **Lu Ye** *(OpenStack ambassador)*

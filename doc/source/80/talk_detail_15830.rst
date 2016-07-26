@@ -1,0 +1,11 @@
+Towards micro-services & API-centric application development
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Micro-services and API is becoming a fundamental technology for cloud application development. In this session we will discuss how to design and implement a cloud-based application by leveraging micro-services architecture pattern and API-centric model. We will examine how to partition an application into multiple micro-services and communicate them through APIs. We will illustrate the architecture using a media application that we have built in our environment. We will also describe how OpenStack API and services can play an important role in this architecture design. In particular, we will explain how to utilize OpenStack SDK to communicate with Nova and Swift services, via API, as part of the application logic.
+
+
+* **Dr Yih Leong Sun** *(Dr Sun accumulated more than 16 years of experience in software development and infrastructure deployment. He obtained PhD Computer Science (Multi-Cloud Infrastructure) in 2013. He spent the past 7 years on Multi-Cloud infrastructure development. He currently serves as a Senior Software Cloud Architect for Intel Open Source Technology Center. Prior to that, he was a Principal Software Engineer for a Fortune-100 Insurance Group, working for the next-generation Cloud platform project. He also led the engineering team of a few start-up companies in Singapore and Silicon Valley. His expertise is in Multi-Cloud orchestration and with a strong interest in building an Enterprise Multi-Cloud platform.)*
+
+* **M.Sc. Omar Bazavilvazo** *(M.Sc. Bazavilvazo has more than 20 years of experience in software development. He obtained his Degree of Master in Information Sciences (HPC on cluster of multi-core processors) from Tohoku University in 2009. He has been working at Intel for the last 7 years. He is currently a Senior Software Developer for Intel Open Source Technology Center focusing on Enterprise Cloud Experience for Developers. Prior to that he worked for IBM and HP among other IT companies working with different technologies. His interests are making OpenStack and Cloud applications easier for Developers to adopt.)*

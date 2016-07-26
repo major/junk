@@ -1,0 +1,9 @@
+Migrate workloads from any cloud to any cloud - The "Easy Button"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Many companies are trying to leverage their existing hardware to move from legacy or virtual environments to updated technology through the use of migration tools or methodologies. Honestly it takes lots of effect building out the API enabled framework that can pull data from sometime old, obscure hardware or complex workloads, or vendor locked environments wanting to have the freedom offered by OpenSource. At Accenture we have built and implemented our latest migration technical platform with integrated services to move existing virtual and legacy to OpenStack. This session is a technical deep dive to help attendees understand what are the key operational elements needed to build a converted that provides an end to end operational model that is integrated into an intelligent orchestration platform. We will use customer use cases to help work through several scenarios and talk about real experiences that you can take home and use for your migration activities.
+
+
+* **Denise Glasscock** *(Global OpenStack Lead and Community of Practice lead for OpenStack.  I am responsible for the Strategic direction for OpenStack and lead the Red Hat Cloud Offering.  I provide the enablement, act as the technology SME for OpenSource Cloud solutions, and help drive client pipeline and Sales enablement.  I have almost 10 years of Cloud experience across all of the large cloud platforms and I have 20 years of experience in Datacenter and systems integration.  I am certified as a TOGAF and IBM Architect in infrastructure and Integrator knowledge domains.  I hold certifications in OpenStack and have an instructor rating within VMware and Red Hat.  I also provide workshops at all levels to help Accenture and our clients grow their knowledge and understanding of market and technology.)*

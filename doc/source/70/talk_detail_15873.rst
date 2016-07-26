@@ -1,0 +1,11 @@
+My spider sensu is tingling!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Most of the OpenStack core projects are currently considered stable and can be installed plug-and-play fashion. Although most of the time everything seems to work fine, anyone operating an OpenStack environment dreads errors appearing silently in the background where they might stay undiscovered while they are not affecting anybody. Some of these might not be worth looking into, but some of them might cause serious trouble later on.During the last few years, many monitoring solutions have evolved around OpenStack or plug-ins for existing ones have been developed. This session introduces a few Open Source options for monitoring your OpenStack cluster. We will outline the monitoring solution we are currently using at cloudbau and Betacloud, which is based on Sensu, InfluxDB, Grafana, Elasticsearch and Collectd. We will finally conclude why we think that Open Source and community-driven solutions are best suited for monitoring OpenStack environments.
+
+
+* **Christian Berendt** *(Christian is the CEO and co-founder of Betacloud Solutions GmbH. He is one of the OpenStack Ambassadors, founded the OpenStack user group in Stuttgart / Germany and is part of the OpenStack documentation core reviewer team. In his  time off he occupies himself with software development, artificial intelligence, micro controllers and much more. He is a seasoned speaker at all kinds of Open Source and IT events such as CeBIT, LinuxTag, and various others. )*
+
+* **Jan Klare** *(Jan Klare is the co-founder of the cloudbau GmbH and has been working with OpenStack and automation (mainly Chef) since 2013. He started with very small and experimental deployments in projects for a telecommunication company and became a core reviewer for the OpenStack-Chef project early 2014. As the PTL for the OpenStack-Chef project during the mitaka cycle his main focus was on refactoring and rewriting all core cookbooks. He is currently focused on handling multiple medium sized OpenStack deployments with Chef, as well as deploying and optimizing the needed monitoring solutions (mainly containerized sensu, influxdb and elk). As a bleeding edge technology fan, he is always interested in new things and currently mainly focuses on CoreOS, rkt and kubernetes.)*

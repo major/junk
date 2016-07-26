@@ -1,0 +1,13 @@
+Automate Windows Images for OpenStack
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Abstract:**
+
+Building Windows images for OpenStack can be tricky if you're not experienced in automating Windows, from Windows 7 until Windows Server 2016. In this session we will describe and demo the automated tools used to fully automate the official Microsoft Windows Server OpenStack trial images, including drivers for multiple hypervirors (KVM, Hyper-V, ESXi), including Cloudbase-Init, performing Windows updates and much more.  We will also demo how to use Cloudbase-Init to run userdata PowerShell scripts on Nova boot and Heat templates to easily automate Windows workloads.
+
+
+* **Alessandro Pilotti** *(Alessandro Pilotti is the CEO of Cloudbase Solutions, a company focused on cloud computing interoperability and the main contributor of all the OpenStack Windows and Hyper-V components in Nova, Neutron, Cinder, Ceilometer and Heat since the Folsom release. Alessandro lives in Timisoara, Romania. When not hacking or travelling, he is flying with his paraglider into old fashioned clouds.  )*
+
+* **Peter Pouliot** *(I help to maintain OpenStack integration with Microsoft's Virtualization platform Hyper-V. My tenure at Microsoft began in March 2012 with a task of organizing community members to restore and maintain Hyper-V intgration within OpenStack.  Our team was successful in restoring the Hyper-V functionality to OpenStack in time for the Folsom release and the Continouous Integration Infrastructure running for the Juno release. I currently act as the OpenStack subject matter expert within Microsoft as well as the evangelist for OpenStack awareness and adoption of OpenStack Windows platforms. Prior to Microsoft I worked for Novell in the Joint Interoperabilty Lab with Microsoft.  There our team focused on testing and validating Linux workloads on Hyper-V and Windows workloads on Xen and KVM.  In April 2011 I successfully deployed the first OpenStack Cloud using Hyper-V and began my evangelism for Hyper-V within the OpenStack community. Additional experiance includes linux high avialability, network and datacenter infrastructure and security.    )*
+
+* **Adrian Vladu** *( Started with JS/Php, moved up to C#/.Net and now navigating through the dev-ops spaces, both Linux and Windows. During the past four years, I have been working on OpenStack integration with Microsoft technologies and contributing to other open source projects. One of my favourite activity at and outside the office is giving back to the people the knowledge I have accumulated. When I am not debugging some issue from a far-away galaxy, you can find me reading science-fiction, playing League of Legends or enjoying a nice German beer.)*
