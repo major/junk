@@ -104,7 +104,8 @@ html_theme = 'default'
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-    "navigation_depth": 1,
+    "navigation_depth": '1',
+    "collapse_navigation": 'False'
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
