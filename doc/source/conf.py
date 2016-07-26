@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'OpenStack Summit Barcelona Proposed Talks'
+project = u'Summit Talks'
 copyright = u'2016, None'
 
 # The version info for the project you're documenting, acts as replacement for
