@@ -1,9 +1,0 @@
-Pocket-OpenStack: Build a usable multinode setup (Controller, 3xCompute, Network) on your 8GB laptop
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-This hands-on workshop will lead you in 90 minutes to a full blown multinode setup with Controller, 3x Compute and NetNode on your >=8 GB laptop. You will install the setup in a specially prepared, containerized virtual environment using Fedora or any other recent distribution. With this setup it is also possible to test and try out things like IPA integration or special storage environments like NFS or Ceph. We will touch those capabilities as well. The way we install the whole setup allows you to use the full (not! nested) virtualization power of your CPU and almost all of the RAM for your VMs, so that real life workloads of OpenStack are possible (within the scope of your laptops CPU). So if you are a developer, tester or consultant and in constant resource pressure for doing real tests with multiple machines for many purposes as testing features, easily extending and rebuilding setups, PoCs, learning, developing and preparation of presentations, then this workshop is for you.
-
-
-* **Joachim von Thadden** *(Joachim joined Red Hat in 2016 to support the Tiger Team. He has some years experience with OpenStack, NFV and SDN as he was developing these subjects for his former employer.There he was responsible for providing PoCs, seminars, trainings and presales activities in the mentioned subjects. Before that Joachim worked for a Linux only company where he conductedmany projects and trainings in various Linux infrastructure projects. Joachim has a deep technical Linux based background and hasn't touched this other operating system for years. If he is not in front of his computer he is probably dealing with a bunch of children and a wife who constantly try conquer his time.)*

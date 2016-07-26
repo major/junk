@@ -1,9 +1,0 @@
-Open Source Networking: From Telco to Enterprise
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Open Source and Standards are inspiring and enabling new technological breakthroughs, with groups like OpenDaylight, OPNFV, ONF, ETSI and others pioneering the way forward. Carriers and enterprises are increasingly asking vendors to deliver solutions based on open source with varying results. NFV for example has become one of OpenStack’s fastest-growing use cases. The industry is going through a major transition, with critical questions having been answered (e.g.,the need for multiple protocols) but new ones being raised (e.g., the role policy and intent, how to scale out centralized control, evolving role of OpenFlow). OpenDaylight Executive Director Neela Jacques will give an overview of the state of open source networking, the role of OpenDaylight as the de facto standard for SDN and NFV, how it’s evolved from roots in the telecom space (and why carriers are early adopters of large-scale deployments), emerging use cases, case studies and end user adoption trends and predictions.
-
-
-* **Neela Jacques** *(A 20-year veteran of the tech industry, Neela Jacques brings a wealth of business, product and open source experience to the role of Executive Director for OpenDaylight. He has taken OpenDaylight from a nascent project whose future was doubted by many to a vibrant, growing open source community that is quickly becoming the de facto standard industry platform. He helped grow VMware’s Virtualization and Cloud business launching multiple multi-million dollar products and initiatives, and consulted CEOs and CIOs on product strategy and M&A as a Bain & Co. Consultant. He is an advisor and board member for startups, a frequent writer for leading publications and dynamic public speaker.  )*

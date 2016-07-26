@@ -1,9 +1,0 @@
-From Shanghai to Global - 2016 Bug Smash!
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Starting the first China OpenStack Bug Smash at Shanghai, Intel and Huawei hosted two joint 3-day OpenStack Bug Smashes in 2015 which attracted big attention of developers from 8 key OpenStack vendors, achieved totally 147 bug fixes and 44 merges. Extending the model, in March and July 2016 we including a few community partners, such as Intel, Rackspace, Mirantis, IBM, Huawei, CESI and others worked together to host a global bug smash at a few sites across four continents, in order to collaborate round-the-clock, around the world, to fix as many bugs as possible across a wide range of OpenStack projects. In the process, we also help onboard and grow new OpenStack developers, and increase our collective knowledge of OpenStack tools and processes. The session is going to give the community and the summit attendees an update about the Bug Smash, and also encourages more and more organizers to join the events to make the activities fair to all.
-
-
-* **Shane Wang** *(Shane Wang is an individual board member of OpenStack Foundation in 2015 and an engineering manager of the Datacenter and Cloud Software (DCS) team at the Open Source Technology Center (OTC), Intel. Shane joined Intel in 2004 after he graduated from Fudan University and got his Ph.D. degree in Computer Science, and since 2007 has been working on open source technologies, spanning low-level Virtualization Technology (VT) in Xen and KVM, maintaining tboot - an open source trusted boot solution, Yocto, and managing embedded solutions. Since 2011 Shane has focused on OpenStack, with his team working on Nova, Ironic, TripleO, Magnum, Congress, Watcher, Horizon, Keystone, Neutron, Ceilometer, Cinder, Glance, and the 3rd party CIs.  He led the team and co-authored two books OpenStack Design and Implementation in 2015 and System Virtualization in 2009.)*

@@ -1,9 +1,0 @@
-In for a Penny, In for a Pound: Private OpenStack vs Public Cloud”
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-The economic benefits of public cloud are touted by many as the reason to look at a migration away from internal datacenters, but what if this wasn’t actually fact?  Deploying an OpenStack based solution inside the datacenter can be as cost effective if not more effective than the large public cloud vendors.  The Open Software-Defined everything movement has allowed for storage, compute and networking to drop to pricepoints that have only been seen my the largest cloudscale vendors.  This session evaluates both the capital expenditures as well as the operating expenditures of traditional datacenter deployments, modern open source and software defined deployments and the public cloud, providing a virtual blueprint of where an enterprise could save costs and increase efficiencies by using each solution in the proper way.
-
-
-* **Michael Letschin** *(Michael Letschin has more than 15 years of experience in the IT industry, ranging from Systems Engineer to IT Director. Most recently, he has held roles as Sales Engineer and now as Field Chief Technology Officer at Nexenta Systems, a software-defined storage company. He received an MBA from Mount Saint Mary's University and has technical certifications from multiple storage and virtualization vendors. He was awarded the VMware vExpert award for the past four years for his work on his blog (thesolutionsarchitect.net), on social media (@mletschin) and in the IT community as a whole. He has continued this community support through speaking engagements at numerous conferences including VMworld and SNIA shows among others, he has also recently began the Inside Software-Defined Everything blog on ComputerWorld.)*

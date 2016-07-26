@@ -1,9 +1,0 @@
-Cloud Strategies for Greater Business Impact
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Working with International Data Corporation (IDC), we have analyzed over 6100 organizations across 31 countries. This massive body of research has allowed us to distill the latest cloud market trends. We have also been able to correlate progressive adoption of cloud technologies (private, public or hybrid) with business outcomes and measured the impact that optimized cloud strategies can have on a number of Key Performance Indicators (KPIs). To make this information actionable we have developed the Cisco Business Cloud Advisor (BCA) framework, which allows you to evaluate cloud environments following proven vendor agnostic methodologies. The intent is to provide concrete guidance on what you need to do to implement the right cloud strategy for your business. During this session we will review some of the market research findings and discuss the Cisco BCA framework components and deliverables that can help you continuously optimize your cloud environments.
-
-
-* **Enrico Fuiano** *(Enrico Fuiano is a Senior Solutions Marketing Manager part of the Cisco Cloud marketing team. Enrico has been working in the IT industry for over 20 years and has held a variety of different positions in R&D, Strategic Business Development, Business Alliances, Product Management, Product and Solutions Marketing. Specifically, over the course of its career Enrico has acquired broad competencies in data center, enterprise software (information management in particular) and cloud computing (e.g., SaaS) related areas. A tennis and personal finance enthusiast, Enrico resides in New Jersey with his wife and family. During the past few years he has also mastered hurricane avoidance and survival techniques.)*

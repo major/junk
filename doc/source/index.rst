@@ -8,10 +8,9 @@ Architectural Decisions
 -----------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   71/*
+   71/index.rst
 
 
 --------
@@ -19,10 +18,9 @@ Big Data
 --------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   79/*
+   79/index.rst
 
 
 ------------
@@ -30,10 +28,9 @@ Case Studies
 ------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   59/*
+   59/index.rst
 
 
 ---------------------
@@ -41,10 +38,9 @@ Cloud App Development
 ---------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   80/*
+   80/index.rst
 
 
 ------------------------
@@ -52,10 +48,9 @@ Cloud Models & Economics
 ------------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   67/*
+   67/index.rst
 
 
 ------------------
@@ -63,10 +58,9 @@ Community Building
 ------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   56/*
+   56/index.rst
 
 
 ----------
@@ -74,10 +68,9 @@ Containers
 ----------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   81/*
+   81/index.rst
 
 
 --------------------------------
@@ -85,10 +78,9 @@ Cultural & Organizational Change
 --------------------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   65/*
+   65/index.rst
 
 
 ---------------
@@ -96,10 +88,9 @@ Developer Tools
 ---------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   88/*
+   88/index.rst
 
 
 --------------------
@@ -107,10 +98,9 @@ Evaluating OpenStack
 --------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   58/*
+   58/index.rst
 
 
 ---------------
@@ -118,10 +108,9 @@ Getting Started
 ---------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   69/*
+   69/index.rst
 
 
 ------------------
@@ -129,10 +118,9 @@ Hands-on Workshops
 ------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   49/*
+   49/index.rst
 
 
 -----------------------
@@ -140,10 +128,9 @@ How To & Best Practices
 -----------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   74/*
+   74/index.rst
 
 
 -----------------
@@ -151,10 +138,9 @@ How to Contribute
 -----------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   83/*
+   83/index.rst
 
 
 --------------
@@ -162,10 +148,9 @@ HPC / Research
 --------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   76/*
+   76/index.rst
 
 
 -----------
@@ -173,10 +158,9 @@ IT Strategy
 -----------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   57/*
+   57/index.rst
 
 
 ----------
@@ -184,10 +168,9 @@ Networking
 ----------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   72/*
+   72/index.rst
 
 
 ----------------------
@@ -195,10 +178,9 @@ Operations War Stories
 ----------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   68/*
+   68/index.rst
 
 
 ---------
@@ -206,10 +188,9 @@ Ops Tools
 ---------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   70/*
+   70/index.rst
 
 
 -------------------
@@ -217,10 +198,9 @@ Products & Services
 -------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   62/*
+   62/index.rst
 
 
 ---------------
@@ -228,10 +208,9 @@ Project Updates
 ---------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   78/*
+   78/index.rst
 
 
 --------
@@ -239,10 +218,9 @@ Security
 --------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   75/*
+   75/index.rst
 
 
 -------
@@ -250,10 +228,9 @@ Storage
 -------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   73/*
+   73/index.rst
 
 
 ----------------------
@@ -261,10 +238,9 @@ Telecom & NFV Strategy
 ----------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   60/*
+   60/index.rst
 
 
 ------------------------
@@ -272,10 +248,9 @@ Telecom / NFV Operations
 ------------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   77/*
+   77/index.rst
 
 
 --------------------
@@ -283,8 +258,7 @@ Upstream Development
 --------------------
 
 .. toctree::
-   :maxdepth: 1
-   :glob:
+   :maxdepth: 2
 
-   82/*
+   82/index.rst
 

@@ -1,9 +1,0 @@
-ATSDS – API Tracking and Selective Debugging System
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Operations biggest challenge is to quickly find the cause of the API failure without disruption. Openstack consists a mesh of services running on various nodes. If, an api fails, one has to find the error and then figure out the real cause. Since there are many services involved, it is challenging to pin point the cause of the issue. Typically, a person raises the logging level of services to DEBUG and then re-issue the API in question. This brings forth following challenges: User need to do this on each node where the service is active or shutdown the service on all nodes but one. Since logging level is increased to debugging at the service level there would be lot of logging data being pushed to log files. This proposal presents an architecture where users can track the API request flow through various services and enable logging for specific API requests, without modifying the configuration files and without restarting any services.
-
-
-* **Prateek Goel** *(Passionate about techology and innovation. Currently working(1 year) with Tata Communications for Openstack based cloud development. Worked with Nova, Cinder, Neutron, Ironic, Ceilometer projects. Have done various enhancements in nova, cinder for datastore selection. Have enabled CAS in keystone as a plugin. Currently working on platform reliability, availability and serviceability. Prior to this, I have 8 years of experience with IBM Software Labs on AIX kernel and user space development. Primary area of work was dynamic tracing tool ( ProbeVue), Virtual Memory Manager, Procee Management, user and Kernel space debugging using languages C and Assembly language. In user space experienced with perl, shell scripting.   )*

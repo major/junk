@@ -1,9 +1,0 @@
-A Visit from St. Dynatrace, Patron of Digital Performance Management
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Twas the night before go live and no one was calm,The sysadmin stood by with sweat in his palm,You might wonder what was the occasion,Twas deployment time without DPM in the equation. Digital performance management, as every child knows,Keeps your users/customers happy and makes them no foes, From the first line of code to production deployments,Keeping in line your application's performance. What has this to do with OpenStack?If your app runs on nova and gets out of whack,You should be in the lucky position,To troubleshoot the control plane and your app in correlation. With numerous services and logs to be found,You’re experience with OpenStack should be rather profound.With huge deployments where changes are constant,It’s easy to lose track of what is important. If that’s the case, then don’t despair,I’ll help you sleep well and keeping your hair,So listen closely and see what to do,To get an holistic environment overview.
-
-
-* **Dirk Wallerstorfer** *(Dirk Wallerstorfer is Technology Lead for SDN and OpenStack at Dynatrace. He has 10+ years of deep, hands-on experience in networking, security, and software engineering. Dirk spends his days on researching new trends in networking and OpenStack, blogging about them, and explaining them to others in simple language, also during his engagements as speaker at conferences and meetups. Before joining Dynatrace, Dirk’s job was to build up and lead a quality management team at a digital marketing agency. Prior to that, he had several engagements as a software engineer working with enterprise Java applications, writing Linux kernel modules for firewalls, and writing UI automation frameworks. Dirk holds a BS from University of Applied Sciences Hagenberg and a MS from Vienna University of Technology.)*

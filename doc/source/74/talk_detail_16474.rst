@@ -1,9 +1,0 @@
-Extending OpenStack Swift usage to all users in the enterprise
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-It has been said OpenStack Swift is a great storage platform – for engineers. Swift is a great storage product, But the truth is, in the enterprise, how do users interact with the data? How do you manage ACLs? How do you share data? The answer is the same - become an engineer. You need a modular suite of applications that you can grow and sculpt to fit an organization, and then re-sculpt as the needs evolve. This session will show how to make users productive and how admins can simplify management and compliance of swift data. Traditional storage requests have become self service, in an intuitive interface, via any OS, device or App. OpenStack Swift is required to offer a similar capability ie. enable users to pick what works best for them, provide the same storage view from anywhere, let users securely share data inside and outside a company if that makes the workforce more productive.
-
-
-* **Erik Joelsson** *(Prior to Storage Made Easy Erik has worked in both engineering and operations. Early in his career, Erik relocated from Sweden to the US to become Director of Engineering for a medical device company, building digital imaging storage and delivery systems. Since then he has excelled in many industries and roles. He led teams of engineers designing both software products and operational systems to ensure technical excellence for government and large enterprises. He led the team responsible for all compute and storage for the San Francisco International Airport, during several years of double digit passenger growth. In later years Erik has worked as both a manager and individual contributor for Big Data consultants and cloud storage vendors.)*

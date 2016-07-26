@@ -1,9 +1,0 @@
-Have It Your Way: Maximizing Drive-Thru Contributions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-They drop by, they fix their particular problem, they leave. They're the drive-through contributor. While, yes, we all would prefer that these people stick around and join the OpenStack community, there's no denying that a good drive-thru contribution adds value to your project. A strong argument can be made that the more drive-thru contributors your project has, the healthier the project process and ecosystem. It shows that you've set up a process which is easy to understand, easy to follow, and which makes it easy to contribute. In a situation like that, it increases the opportunities for new contributors to become new community members and everyone is a winner. This talk will present: * Reasons people become drive-thrus (both why they show up & why they leave)* Methods for maximizing drive-thru contributions* Overall advantages of those methods for your project* An argument for using number of drive-thru contributions as a metric for project health
-
-
-* **VM (Vicky) Brasseur** *(VM (aka Vicky) is a manager of technical people, projects, processes, products and p^Hbusinesses. In her nearly 20 years in the tech industry she has been an analyst, programmer, product manager, software engineering manager, C-level technical business consultant, and director of software engineering. She currently is proud to be a Senior Engineering Manager at Hewlett Packard Enterprise, working in service to a team 100% dedicated to open source development, primarily on OpenStack. Vicky is the winner of the Perl White Camel Award (2014) and the O'Reilly Open Source Award (2016). Vicky occasionally blogs at http://anonymoushash.vmbrasseur.com and frequently tweets at @vmbrasseur.)*

@@ -1,9 +1,0 @@
-OpenShift on OpenStack: Delivering Applications Better Together
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Many organizations have had success in dabbling with Linux Containers, and once they see a small project have success, the epiphany happens. This leads to additional questions, including:  1. Can we put everything in containers?  2. How do we get our traditional applications into containers?  3. Can we use containers in combination with virtual machines? In this session, we’ll address these the best approach for organizations to make the transition to containers for both new greenfield, and existing traditional applications. Attendees will learn how OpenStack is evolving to integrate with the Linux, Docker, Kubernetes stack to provide the ideal infrastructure platform for modern containerized applications. We’ll also cover an integrated approach to modern applications made up of containers and virtual machines, made possible with an OpenStack infrastructure.    
-
-
-* **Scott McCarty** *(At Red Hat, Scott McCarty helps to educate IT professionals, customers, and partners on all aspects of Linux containers, from organizational transformation to technical implementation, and works to advance Red Hat's go-to-market strategy around containers and related technologies. He also liaises with engineering teams, both at the product and upstream project level, to help drive innovation by using feedback from Red Hat customers and partners as drivers to enhance and tailor container features and capabilities for the real world of enterprise IT.Scott is a social media start-up veteran, an e-commerce old timer, and a weathered government research technologist, with experience across a variety of companies and organizations, from seven person start-ups to 8,000 employee technology companies. This has culminated in a unique perspective on open source software development, delivery, and maintenance.)*

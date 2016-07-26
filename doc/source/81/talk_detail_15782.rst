@@ -1,9 +1,0 @@
-Curbing Container Confusion: what you need to know to use the term Containers responsibly
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Everyone can agree that Containers is a hot topic.  Unfortunately, when most people talk about "Containers", they are actually talking about different things.  In OpenStack this leads to misleading statements like "Nova can't orchestrate containers" and "Magnum is our container orchestration system" (meaning what is this Zun thing?).  The truth is that OpenStack has no generic container component because anything that makes use of the Linux Containers API is a container.  This means that when most people talk about "containers" they actually mean a particular way their container is built and most likely they mean the container platform (like Docker, Rkt, LXC etc).  The talk will explain what the differences between all these platforms are, and why they need to be different (and why OpenStack actually doesn't need a generic container component).  We will also address the prevailing impression that this is all just a format problem and OCI will sort it all out (it isn't and it won't).
-
-
-* **James Bottomley** *(James Bottomley is a Distinguished Engineer at IBM Research where heworks on Cloud and Container technology.  He is also Linux Kernelmaintainer of the SCSI subsystem. He has been a Director on the Boardof the Linux Foundation and Chair of its Technical Advisory Board. Hewent to university at Cambridge for both his undergraduate anddoctoral degrees after which he joined AT&T Bell labs to work onDistributed Lock Manager technology for clustering. In 2000 he helpedfound SteelEye Technology, a High availability company for Linux andWindows, becoming Vice President and CTO.  He joined Novell in 2008 asa Distinguished Engineer at Novell's SUSE Labs, Parallels (later Odin)in 2011 as CTO of Server Virtualization and IBM Research in 2016.)*

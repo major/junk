@@ -1,9 +1,0 @@
-Exposing Custom Self-service Applications on OpenStack? Horizon, Heat, CLI, Keystone, Oh My!
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-You built a custom self-service application (with RESTful APIs) and now you want to expose it to all users of your OpenStack cloud. Though APIs are the ultimate way to interact with any service, users typically consume different OpenStack services via Horizon, CLI, or Heat. Further, users expect that their keystone token should get them access to all services (albeit at different privilege levels depending on their keystone roles). So, unless you integrate your application with all of these OpenStack services and tools, you will have hard luck enticing users to try out your application. In this session, we share our experiences in exposing a self-service networking and analytics application that runs on OpenStack. Further we also present the lessons learned (especially pitfalls-to-avoid when developing your application) and opportunities for improvements in these OpenStack services (Horizon, Heat, etc.) and their architectures that ease building and exposing self-service applications.
-
-
-* **Praveen Yalagandula** *(Praveen Yalagandula is the OpenStack Architect at Avi Networks, responsible for designing and developing the integration of Avi Networks’ Cloud Application Delivery Platform with OpenStack infrastructure services. At Avi, Praveen also leads the application performance visibility component of the Avi’s solution and has developed a scalable and distributed log analytics system. Prior to Avi, Praveen was a Principal Scientist at HP Labs in Palo Alto, where he spent 8 years exploring several aspects of data center networks, software defined networking, and large-scale distributed systems. Praveen received his Ph.D. in Computer Science from the University of Texas at Austin in 2005. He is currently a senior member of IEEE and ACM.)*

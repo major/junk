@@ -1,9 +1,0 @@
-Home and Away: A work from home episode
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-In the UK, the number of people WFH has increased by a fifth in the last ten years. In the US, the number of people WFH has increased 103% since 2005. Technology enables us to communicate more-or-less solely online, eradicating the need for human interaction, and allowing us to WFH on the project we love. However, with all the benefits of WFH, it can also be isolating, lonely, difficult, and a struggle. As a documenter for OpenStack, the most important thing I do every day is communicate online with people I do not know to ensure my job is conducted effectively and efficiently. Communication online is key to creating, forming, and maintaining a successful project. This presentation will cover: Consideration for working with WFH colleagues when you work in an office How maintain effective online communication between team members How to use online communication to create a good team culture with your remote team Tips on how to work from efficiently and effectively
-
-
-* **Alexandra Settle** *(Alexandra Settle used to work remotely as a technical writer with the Rackspace Cloud Builders Australia team, but recently relocated to the United Kingdom and now resides in London working on Rackspace Private Cloud and OSIC.She is a core reviewer for OpenStack manuals, spends her spare time dabbling in the Openstack Ansible and swift docs, and mentors documentation for the Outreachy project.Alex began her career as a writer for the cloud documentation team at Red Hat, Australia. She has had a keen interest in IT since high school, prefers Fedora over other Linux distributions, and loves potatoes. Alex was also part of a team that authored the OpenStack Design Architecture Guide, and hopes to further promote involvement in the OpenStack community within Australia.)*

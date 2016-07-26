@@ -1,9 +1,0 @@
-A Security State of Mind: Continuous Security for Containers on OpenStack
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-With the rise of DevOps, containers are at the brink of becoming a pervasive technology in Enterprise IT to accelerate application delivery for the business.  When it comes to adopting containers in the enterprise, Security is the highest adoption barrier.  Is your organization ready to address the security risks with containers on your OpenStack environment?   In this presentation, you'll learn about: - The underlying technologies for Containers and how containers enable DevOps - The security risks with containers in the enterprise - The dangers of untrusted content and importance of maintaining container images - Automating vulnerability, security, and compliance checking for container images  - How to make your Container workflow more secure  Join, Chris Van Tuin, Chief Technologist, West at Red Hat, as he walks through the security risks with deploying containers and how to address these security challenges without slowing down the application delivery pipeline.  
-
-
-* **Chris Van Tuin** *(Chris Van Tuin, Chief Technologist for the Western US at Red Hat, has over 20 years of experience in IT and Software.   Since joining Red Hat in 2005, Chris has been architecting solutions for strategic customers and partners with a focus on emerging technologies including IaaS, PaaS, and DevOps.  He started his career at Intel in IT and Managed Hosting followed by leadership roles in services and sales engineering at Loudcloud and Linux startups.  Chris holds a Bachelors of Electrical Engineering from Georgia Institute of Technology and found his passion in technology as a C and Smalltalk developer.  Chris presented at OpenStack Vancouver.         )*

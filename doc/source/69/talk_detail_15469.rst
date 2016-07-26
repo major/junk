@@ -1,9 +1,0 @@
-Feeling a bit deprecated? We are too. Let's work together to embrace the OpenStack Unified CLI!
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Does anyone else recall learning the CLI of the OpenStack projects and scratching their head in bewilderment as to the variance in naming, structure, and arguments for the various projects? And then the output you received from executing the command was different depending on which project you were running against?Enter the OpenStack Unified CLI to level set these commands. The Unified CLI not only attempts to create a consistent feel between the OpenStack projects, it also is a pluggable architecture to dynamically provided commands, depending on which OpenStack components you had installed. For instance, you don't get OpenStack bare metal unless you have Ironic installed.In this session we will deep dive into the OpenStack Unified CLI. We’ll show how it works behind the scenes, and we’ll discuss its available plugins. We’ll also provide some troubleshooting guidance for those times when things don't work as expected.
-
-
-* **Darin Sorrentino** *(Darin has over 18 years of IT experience, wearing various hats over the years ranging from application development to database administrator to system administrator to enterprise architect.  It is his experience in such broad categories that allows him to help others in understanding and utilizing cloud platforms such as OpenStack to effectively deliver solutions that make sense.  Darin is currently working as an OpenStack Senior Solutions Architect on the Red Hat OpenStack Tiger Team assisting in Proof of Concept deployments, technical deep dives and assistance with problem resolution.  Prior to working at Red Hat, Darin's previous OpenStack experience was helping a value added reseller (VAR) devise a cloud strategy to deliver for government agencies and prior to that, working for Mirantis.)*

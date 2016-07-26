@@ -1,9 +1,0 @@
-The Juju/Ansible Bake-Off: Which Should I Choose To Deploy and Run my OpenStack?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Juju and Ansible are two highly popular means of deploying OpenStack, and they both standardize on the same core platform (Ubuntu). This makes them easy to compare fairly and impartially. In this presentation, we'll take a look at how they fare in a direct head-to-head. We'll look, in particular, at the following topics: What prerequisites exist for deploying OpenStack with Juju, and Ansible? How does an agentless and agent-driven approach compare? What does either tool offer for baremetal deployment? What architecture approach do the tools follow? What networking and storage options are available? How does either tool handle expansions/upgrades of the OpenStack environment? How can operators customize/override either tool's choices? How can operators switch from one tool to the other? This talk is free of bias toward either tool — my team and I have used both openstack-ansible and Juju to deploy OpenStack clouds in production, and have seen the pros and cons of either first-hand.
-
-
-* **Florian Haas** *(Florian has been an active member of the OpenStack community since early 2011. He has driven and contributed to lively discussions within the community about OpenStack high availability, distributed storage integration, automation and deployment, and other topics. Florian has spoken about OpenStack at previous OpenStack Summits and also at OSCON, LinuxCon, linux.conf.au and many other conferences. When he is not speaking at conferences, Florian discharges his duties as CEO of professional services firm hastexo (which has a strong OpenStack focus), and also acts as a Principal Consultant serving hastexo's high-profile clients.)*

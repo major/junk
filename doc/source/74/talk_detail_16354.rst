@@ -1,9 +1,0 @@
-Failed OpenStack Update?! Now What?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-With each OpenStack version release, new components, services, and feature sets are included to improve overall functionality. However, with the advantage of those new features comes the very real possibility of having an OpenStack failed update. Prior to attempting an update,  you are likely to ask yourself: What do I need to back up prior to the update? How do I backup my databases? How do I restore my databases? If I need to rollback all of the services, which do I start first? To answer these questions you need a comprehensive strategy to backup and restore from a failure.  This session dives into best practices on how to properly backup and restore an OpenStack environment from a failed update and will provide attendees the answers to the critical questions: What do I need to back up for the overcloud nodes and undercloud node? What is the restore process for the overcloud nodes and undercloud node?
-
-
-* **Roger Lopez** *(Roger Lopez is a principal software engineer in Red Hat’s Solutions Engineering group. This team identifies high-value solution stacks based on input from Sales, Marketing, and Engineering teams and develops reference architectures for internal and external customers. Roger is a Red Hat Certified Engineer (RHCE) with more than 9 years of computer industry experience at Dell and Red Hat. I've presented at conference such as Red Hat Summit, Collaborate, Oracle World over the course of those nine years. I've currently been working on OpenStack for almost two years with my focus around Performance and Scalability, and Backup and Recovery. Below are some blogs and reference architectures around OpenStack that I've written: http://redhatstackblog.redhat.com/2015/08/17/performance-and-scaling-your-red-hat-enterprise-linux-openstack-platform-cloud/ https://access.redhat.com/node/1507893/40 https://access.redhat.com/articles/2165131  )*

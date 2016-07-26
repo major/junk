@@ -1,9 +1,0 @@
-A DevOps State of Mind with Docker, Kubernetes, and OpenStack
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Rapid innovation, changing business landscapes, and new IT demands force businesses to make changes quickly.  In the eyes of many, containers are at the brink of becoming a pervasive technology in Enterprise IT to accelerate application delivery.  In this presentation, you'll learn about the              • The transformation of IT to a DevOps, Microservices, and Container on OpenStack based Architecture            • What are containers and how DevOps practices can operate in a container based environment            • A demonstration of how Docker and Kubernetes can reduce software delivery cycle times, drive automation, and increase efficiency of applications on an OpenStack environment            • How other organizations are using DevOps + Microservices + Containers on OpenStack and how to replicate their success    Join Chris Van Tuin, Chief Technologist, West at Red Hat, as he walks through how DevOps with Docker and Kubernetes can accelerate application delivery for the Business.
-
-
-* **Chris Van Tuin** *(Chris Van Tuin, Chief Technologist for the Western US at Red Hat, has over 20 years of experience in IT and Software.   Since joining Red Hat in 2005, Chris has been architecting solutions for strategic customers and partners with a focus on emerging technologies including IaaS, PaaS, and DevOps.  He started his career at Intel in IT and Managed Hosting followed by leadership roles in services and sales engineering at Loudcloud and Linux startups.  Chris holds a Bachelors of Electrical Engineering from Georgia Institute of Technology and found his passion in technology as a C and Smalltalk developer.  Chris presented at OpenStack Vancouver.         )*

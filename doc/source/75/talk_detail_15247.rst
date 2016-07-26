@@ -1,9 +1,0 @@
-Achieving end-to-end compliance based on hardware root of trust
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Study shows that security is still the biggest barrier to cloud adoption, with compliance and data protection being top concerns for a CISO.    Enterprises often have a need to enforce policies (based on data sovereignty requirements) such as virtual workloads should only be placed, or migrated, based on location and assurance of hardware platform. Some others want to launch VMs/Apps/Containers on Servers with Boot Integrity – Platform Trust, while some have a need to extend the chain of trust from platform to workload (VM/Container). This session features a demo along with a reference architecture that shows end-to-end compliance (boot time to shutdown) using hardware and software attestations, as well as continuous compliance monitoring for drifts in an OpenStack cloud.   
-
-
-* **Joy Dorairaj** *(Joy is a Principal Product Manager, part of the Helion OpenStack Product Management team with Hewlett Packard Enterprise responsible for security.  She specialises in OpenStack Security and Compliance, driving the product strategy & roadmap, prioritizing requirements and working with her engineering team to ensure that HPE is delivering a secure OpenStack distribution for customers. She has over 18 years of industry experience, having spent the last 10 years in a variety of Product Management roles in the area of security (OpenStack security, Analytics and Big Data Security, Cloud endpoint protection products, Wireless SaaS security, Security services for Telcos, Compliance products etc.) She has a Bachelors degree in Computer Science & Engineering and a Masters degree in Applied Mathematics, and enjoys running and community volunteering in her spare time.)*

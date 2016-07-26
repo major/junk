@@ -1,9 +1,0 @@
-Accenture Intelligent Orchestration Platform - Holistic approach to Management
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-This session will deep dive into what does it mean to have an intelligent orchestration platform and how we built the Accenture Intelligent Orchestration Platform. We will show how you can align your orchestration workflows with the needs of the business processes and policies while ensuring the workload is not starved or challenged in anyway for IT resources. We will take you to the front line on how the business views the Orchestration platform components and how it helps define, track and show areas of performance optimization, compliance and auditability and security. The session will assist first-timers and seasoned developers in how to prepare your business and IT for this new way of operating your orchestration layer with data analytics which provides real-time and historic information you can you to deploy now or in the future. We will use use cases and real world experiences to help show what it means to operate intelligent systems in the cloud.
-
-
-* **Denise Glasscock** *(Global OpenStack Lead and Community of Practice lead for OpenStack.  I am responsible for the Strategic direction for OpenStack and lead the Red Hat Cloud Offering.  I provide the enablement, act as the technology SME for OpenSource Cloud solutions, and help drive client pipeline and Sales enablement.  I have almost 10 years of Cloud experience across all of the large cloud platforms and I have 20 years of experience in Datacenter and systems integration.  I am certified as a TOGAF and IBM Architect in infrastructure and Integrator knowledge domains.  I hold certifications in OpenStack and have an instructor rating within VMware and Red Hat.  I also provide workshops at all levels to help Accenture and our clients grow their knowledge and understanding of market and technology.)*

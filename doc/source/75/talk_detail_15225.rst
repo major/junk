@@ -1,9 +1,0 @@
-Holistic security for OpenStack clouds
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Nothing clears out a conference room faster than a discussion around information security. Securing complex computer systems, such as OpenStack clouds, is extremely difficult. To make matters worse, attackers can make many mistakes without consequences. A defender’s single mistake could lead to a breach. Don't let fear rule the discussion around security. Operators need a simple and scalable method for securing OpenStack clouds. That starts with grouping components into compartments and then looking at how those compartments interact with each other. Those interactions form the backbone of security policies and technical controls. In this vendor-neutral talk, Major Hayden, principal architect at Rackspace, will break down the complexity of securing OpenStack clouds using real-world scenarios. Attendees will learn how to: Divide OpenStack deployments into compartments Analyze the interactions between each component Develop security policies and apply technical controls
-
-
-* **Major Hayden** *(Major Hayden builds OpenStack clouds as a Principal Architect at Rackspace. Major is a core developer in the OpenStack-Ansible project with a focus on improving information security in OpenStack deployments.  He holds multiple Red Hat and Global Information Assurance Certification (GIAC) certifications and has written extensively about securing virtualized Linux environments. Outside of OpenStack, Major has contributed to several open source projects including dracut, systemd, and Ansible. Within the Fedora Linux community, Major serves on the Fedora Security Team and Fedora Server Working Group. Major enjoys writing on his personal blog, major.io, and he talks about technical topics on Twitter as @majorhayden.)*

@@ -1,9 +1,0 @@
-Practical OpenStack Operations: What happens after Day 1
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-You now have a fully deployed OpenStack Cloud. Great. You made the right decision. But what happens next? This presentation looks into the most common operational problems that a typical Cloud administrator will face after day 1: security, currency, monitoring, problem detection, analysis & resolution, scalability and configuration elasticity, among others. It will compare capabilities of familiar DevOps tools, such as Ansible, Juju/MaaS, Nagios/Icinga, Zabbix, ELK, Ganglia, Grafana, etc. The DevOps landscape is extensive and it can be confusing to understand the pros and cons of a particular stack of applications to complement Cloud operation needs. It's our goal in to clarify the available options and categorize them, while emphasizing their differences, strengths and weaknesses. Lastly we discuss best practices to integrate them with OpenStack to achieve flexible and effortless Cloud operations.
-
-
-* **Marcelo Perazolo** *(Marcelo Perazolo is the Lead Software Architect for Operational Management in the IBM Systems Cloud Solutions Group. He is located in the IBM Software Lab in RTP, NC, and has received his MSEE and BSEE degrees from UNICAMP, then started his professional career at IBM in 1990, accounting for more than 25 years of professional experience with Infrastructure and Platform Management solutions. He drives planning and strategy for IBM's Systems Management team to exploit Open Systems Software and OpenStack to build Converged and Hyperconverged Infrastructure solutions. He is active in multiple Open organizations, such as OpenPOWER, OASIS and DMTF and focuses on furthering IBM's Open Systems agenda, and to drive open management capabilities into converged and hyperconverged infrastructure system solutions in the marketplace.)*

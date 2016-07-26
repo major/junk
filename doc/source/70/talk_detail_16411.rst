@@ -1,9 +1,0 @@
-The DevOps Train Wreck Headed for Your Data Center
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Urgent: To make the transition to DevOps, we must build the tooling we'll all need to succeed. It’s become fashionable to say: “All the interesting technology problems in DevOps are solved. We have Docker. We have Kubernetes. We have OpenStack. They’re stable, and they’re widely deployed. All that’s left to do is process transformation, teaching dullard enterprise IT teams how to consume the new-new IT.” This is dangerous thinking. The DevOps transition is placing demands on the enterprise data center that will break infrastructure models and policies designed for a dying era of monolithic apps. If we don’t work together as a community to build a new generation of tooling for the DevOps era, performance won’t meet expectations, and then we’ll all get to read articles about how DevOps failed. We can fix this. This talk will examine three areas that need attention. If we work together, we can prepare for the fundamentally new infrastructure and process demands of DevOps. 
-
-
-* **Sumeet Singh** *(Sumeet Singh is the Founder & CEO of AppFormix. AppFormix optimizes enterprise clouds by providing sophisticated analytics and control of how virtualized infrastructure interacts with applications. Previously, Sumeet was the Principal lead for Hybrid Cloud Networking at Microsoft Azure.   Sumeet’s PhD. thesis at UCSD directly led to him co-founding NetSift, which was subsequently acquired by Cisco, where he led the integration of the NetSift distributed network analytics technology into Cisco products. Sumeet, has over 15 years of experience in the field of distributed systems, he holds 20 patents, has authored 15 research papers and is a recipient of the prestigious MIT Technology Review TR35 award.)*

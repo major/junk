@@ -1,9 +1,0 @@
-Advanced Cloud Technology is here so look at People and Processes for Success
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Abstract:**
-
-Sometimes it seems easy to implement a technical solution. IT gets a new project and eventually the business gets a new solution. Today we have the technology to deploy assets in seconds to minutes instead of days, weeks, and months; this means that business can be more innovative and have much greater market entry velocity than ever before. This all sounds great but even though the technology exists, that doesn’t mean that the business is designed to really take advantage of it and neither is IT usually.  The crux of the issue isn’t around technology; it is People and Process.  First off, the culture of the organization has to be ready for innovation at cloud-speed. Second, IT roles and skills need to be aligned with cloud capabilities and not with old time legacy latency. Third is Process, say this word over and over and it is still not enough because process defines automation  and orchestration, which is the cornerstone of cloud computing.
-
-
-* **Robert Jacobs** *(Robert has had a successful career spanning over 20 years focusing on the alignment of business and technology to impel transformational change by translating organization objectives into actionable technical results. He has been with Accenture for more than five years in Product, Service, and Offering Development; his endeavors and thought leadership provide the impetus for new cloud solutions centering on Cloud Strategy, Management, and Operations. Robert’s current role aims to provide clients with the most ubiquitous cloud offering to date; whereas the client’s business and financial strategies align to the advanced technology that an intelligent cloud affords.)*
