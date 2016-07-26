@@ -1,7 +1,9 @@
-OpenStack Summit Barcelona Presentation Proposals (Unofficial)
-==============================================================
+=================================================
+OpenStack Summit Barcelona Presentation Proposals
+=================================================
 
 
+-----------------------
 Architectural Decisions
 -----------------------
 
@@ -1643,6 +1645,7 @@ Efficiency in IT has never really been just a nice-to-have. But as increasingly 
 
 
 
+--------
 Big Data
 --------
 
@@ -1832,6 +1835,7 @@ Object storage has become a de facto cloud storage. Analytics over data stored o
 
 
 
+------------
 Case Studies
 ------------
 
@@ -2810,6 +2814,7 @@ Following upstream is not easy.There are training sessions and mentoring to help
 
 
 
+---------------------
 Cloud App Development
 ---------------------
 
@@ -3297,6 +3302,7 @@ CI/CD plays a more and more important role in the development and testing proces
 
 
 
+------------------------
 Cloud Models & Economics
 ------------------------
 
@@ -3528,6 +3534,7 @@ OpenStack is irrelevant. Or it should be, by all means. And that is a good thing
 
 
 
+------------------
 Community Building
 ------------------
 
@@ -3969,6 +3976,7 @@ Chances are your company has spent a lot of money to get you to the OpenStack Su
 
 
 
+----------
 Containers
 ----------
 
@@ -4724,6 +4732,7 @@ Every company starting to look at a platform for their new agile project face th
 
 
 
+--------------------------------
 Cultural & Organizational Change
 --------------------------------
 
@@ -5013,6 +5022,7 @@ It took enterprises a decade or more to embrace virtualization. It was a massive
 
 
 
+---------------
 Developer Tools
 ---------------
 
@@ -5422,6 +5432,7 @@ Packer is a tool from Hashicorp that automates the creation of machine images an
 
 
 
+--------------------
 Evaluating OpenStack
 --------------------
 
@@ -5636,6 +5647,7 @@ The OpenStack community of projects is growing and evolving. To help all of us s
 
 
 
+---------------
 Getting Started
 ---------------
 
@@ -5932,6 +5944,7 @@ The world is really a flat plate resting on the back of a giant tortoise and wha
 
 
 
+------------------
 Hands-on Workshops
 ------------------
 
@@ -6601,6 +6614,7 @@ OpenShift Container Platform is a self-service on-demand application development
 
 
 
+-----------------------
 How To & Best Practices
 -----------------------
 
@@ -8845,6 +8859,7 @@ Today OpenStack has become a powerful, extremely flexible platform that can fit 
 
 
 
+-----------------
 How to Contribute
 -----------------
 
@@ -9306,6 +9321,7 @@ Have you been thinking of making your first contribution to OpenStack but not su
 
 
 
+--------------
 HPC / Research
 --------------
 
@@ -9588,6 +9604,7 @@ Spartan is a new breed of HPC; not a cluster but service that manages underlying
 
 
 
+-----------
 IT Strategy
 -----------
 
@@ -10359,6 +10376,7 @@ One of the main drivers for Cloud adoption in the enterprise is the desire to im
 
 
 
+----------
 Networking
 ----------
 
@@ -12334,6 +12352,7 @@ Elastic containerized services rely on Load Balancing (LB) functionality to be i
 
 
 
+----------------------
 Operations War Stories
 ----------------------
 
@@ -12736,6 +12755,7 @@ In 2012 we deployed our first productive OpenStack private cloud within SUSE and
 
 
 
+---------
 Ops Tools
 ---------
 
@@ -14204,6 +14224,7 @@ OpenStack Zuul manges Openstack infrastructure workflows and OpenStack Ironic is
 
 
 
+-------------------
 Products & Services
 -------------------
 
@@ -14973,6 +14994,7 @@ Setting and operating OpenStack is hard and there are a few experts available on
 
 
 
+---------------
 Project Updates
 ---------------
 
@@ -15674,6 +15696,7 @@ Trove, the Database as a Service project for OpenStack, has been evolving rapidl
 
 
 
+--------
 Security
 --------
 
@@ -16468,6 +16491,7 @@ What can TLS/SSL do for you? There’s a 100% chance you are already using TLS/S
 
 
 
+-------
 Storage
 -------
 
@@ -17664,6 +17688,7 @@ Smaug is a new OpenStack Big Tent project, which provides a set of APIs and an s
 
 
 
+----------------------
 Telecom & NFV Strategy
 ----------------------
 
@@ -17916,6 +17941,7 @@ Many of today’s Operators have successfully rolled out virtualized OpenStack t
 
 
 
+------------------------
 Telecom / NFV Operations
 ------------------------
 
@@ -19344,6 +19370,7 @@ NFV support in OpenStack started in Kilo release with Enhanced Platform Awarenes
 
 
 
+--------------------
 Upstream Development
 --------------------
 
