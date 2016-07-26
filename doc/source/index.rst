@@ -1,5 +1,5 @@
-OpenStack Summit Barcelona Presentation Proposals
-=================================================
+OpenStack Summit Barcelona Presentation Proposals (Unofficial)
+==============================================================
 
 
 Architectural Decisions
